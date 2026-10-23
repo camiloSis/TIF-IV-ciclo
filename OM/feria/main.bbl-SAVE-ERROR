@@ -1,0 +1,3479 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{androsov2024nonlinear}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=fb6567ccb26bb1d68f67b6dde7bad9bf}{%
+           family={Androsov},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06643af0a027f5661bd64bd62a2f8c1b}{%
+           family={Harig},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=66aa2ddf6ca1791c1c97585a46044eef}{%
+           family={Zamora},
+           familyi={Z\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3be623841596bcf9a52c922e7b68294c}{%
+           family={Knauer},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d350ceb2ddf4cf6cad7234a9932d8d9a}{%
+           family={Rakowsky},
+           familyi={R\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d4d5d5a72831d073af7310091e2fc1c0}
+      \strng{fullhash}{912b93d0a0512f78c7592b96515161bf}
+      \strng{fullhashraw}{912b93d0a0512f78c7592b96515161bf}
+      \strng{bibnamehash}{912b93d0a0512f78c7592b96515161bf}
+      \strng{authorbibnamehash}{912b93d0a0512f78c7592b96515161bf}
+      \strng{authornamehash}{d4d5d5a72831d073af7310091e2fc1c0}
+      \strng{authorfullhash}{912b93d0a0512f78c7592b96515161bf}
+      \strng{authorfullhashraw}{912b93d0a0512f78c7592b96515161bf}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Natural Hazards and Earth System Sciences}
+      \field{title}{Nonlinear processes in tsunami simulations for the Peruvian coast with focus on Lima and Callao}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.5194/nhess-24-1635-2024
+      \endverb
+    \endentry
+    \entry{ariasvalencia2024lisis}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ee3f8f8e26988257f5da70d7fd59c9fc}{%
+           family={Arias-Valencia},
+           familyi={A\bibinithyphendelim V\bibinitperiod},
+           given={Diana\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac955e527f4b995eae4be013153863bb}{%
+           family={Aristizábal-Arias},
+           familyi={A\bibinithyphendelim A\bibinitperiod},
+           given={Jorge\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c862764f6bb10d65db1f5ae04af6b017}
+      \strng{fullhash}{c862764f6bb10d65db1f5ae04af6b017}
+      \strng{fullhashraw}{c862764f6bb10d65db1f5ae04af6b017}
+      \strng{bibnamehash}{c862764f6bb10d65db1f5ae04af6b017}
+      \strng{authorbibnamehash}{c862764f6bb10d65db1f5ae04af6b017}
+      \strng{authornamehash}{c862764f6bb10d65db1f5ae04af6b017}
+      \strng{authorfullhash}{c862764f6bb10d65db1f5ae04af6b017}
+      \strng{authorfullhashraw}{c862764f6bb10d65db1f5ae04af6b017}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Información tecnológica}
+      \field{title}{Análisis probabilístico de estabilidad de taludes con falla planar en la Comuna Universitaria de la ciudad de Manizales (Colombia)}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb http://www.scielo.cl/scielo.php?script=sci_arttext\&pid=S0718-07642024000300001\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://www.scielo.cl/scielo.php?script=sci_arttext%5C&pid=S0718-07642024000300001%5C&lang=es
+      \endverb
+    \endentry
+    \entry{davila2025probabilistic}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=6b3440c817da5aa2927387439261ec9a}{%
+           family={Davila},
+           familyi={D\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a9664d3cf7c542d08bea64a8e1a08e9}{%
+           family={Estrada},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=696662c3bedee8fa233e51fa3fb5f953}{%
+           family={Ceferino},
+           familyi={C\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f883c02840d61ac6e539090e397a228}{%
+           family={Morales},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a0df15007c459adbf2d4fca56e97cb5}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0b7ca0fe1ec1bc8509d6b5d864690e5}{%
+           family={Koshimura},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6c591897f0ba712ef817acf53eb5de82}
+      \strng{fullhash}{f5a3aa34ccd7937b12c17072f97c609e}
+      \strng{fullhashraw}{f5a3aa34ccd7937b12c17072f97c609e}
+      \strng{bibnamehash}{f5a3aa34ccd7937b12c17072f97c609e}
+      \strng{authorbibnamehash}{f5a3aa34ccd7937b12c17072f97c609e}
+      \strng{authornamehash}{6c591897f0ba712ef817acf53eb5de82}
+      \strng{authorfullhash}{f5a3aa34ccd7937b12c17072f97c609e}
+      \strng{authorfullhashraw}{f5a3aa34ccd7937b12c17072f97c609e}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Disaster Research}
+      \field{title}{Probabilistic Tsunami Hazard Assessment Based on Time and Space Dependent Rupture Analysis of the Central Peruvian Subduction Zone}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.20965/jdr.2025.p0922
+      \endverb
+    \endentry
+    \entry{escobarsilva2023assessing}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=5cf0ce4a9432d85fc92f8623b236d7c7}{%
+           family={Escobar-Silva},
+           familyi={E\bibinithyphendelim S\bibinitperiod},
+           given={E.V.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=118884369b92c816093c97d187c505d0}{%
+           family={Almeida},
+           familyi={A\bibinitperiod},
+           given={C.M.D.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd96e0e6b24c5cfdb97cfc045f3eadbf}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={G.B.L.D.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e703b0c4d3c2ad0ba0949c1b21c5369e}{%
+           family={Bursteinas},
+           familyi={B\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e192a4631358f4a9a47bdbeb795f9e63}{%
+           family={Rocha\bibnamedelima Filho},
+           familyi={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={K.L.D.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8150f153502edf328f5ba1794b2b21e5}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={C.G.},
+           giveni={C\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=99a6c8e986f930dcfd1cd01e53a18e3b}{%
+           family={Fagundes},
+           familyi={F\bibinitperiod},
+           given={M.R.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8e5d316a4c46929382c0e0b7b925300}{%
+           family={Paiva},
+           familyi={P\bibinitperiod},
+           given={R.C.D.D.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3a50dde0b96dc38e304d14963e651d9d}
+      \strng{fullhash}{402ef8da15718fb1c1d83a2f873d2b31}
+      \strng{fullhashraw}{402ef8da15718fb1c1d83a2f873d2b31}
+      \strng{bibnamehash}{402ef8da15718fb1c1d83a2f873d2b31}
+      \strng{authorbibnamehash}{402ef8da15718fb1c1d83a2f873d2b31}
+      \strng{authornamehash}{3a50dde0b96dc38e304d14963e651d9d}
+      \strng{authorfullhash}{402ef8da15718fb1c1d83a2f873d2b31}
+      \strng{authorfullhashraw}{402ef8da15718fb1c1d83a2f873d2b31}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water (Switzerland)}
+      \field{title}{Assessing the Extent of Flood-Prone Areas in a South-American Megacity Using Different High Resolution DTMs}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.3390/w15061127
+      \endverb
+    \endentry
+    \entry{fagundes2021sediment}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=2dbe77bc6f7651daf4980511ae3e4acd}{%
+           family={Fagundes},
+           familyi={F\bibinitperiod},
+           given={H.O.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3e50bd240b3755edf83faa85038c1a2}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={F.M.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a29d42e7c2672323e1c487a969a610fa}{%
+           family={Paiva},
+           familyi={P\bibinitperiod},
+           given={R.C.D.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4cf1454cd766208a5f328a0f20c99ebf}{%
+           family={Siqueira},
+           familyi={S\bibinitperiod},
+           given={V.A.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17058f6ea05a1107a04fcb57a9cce4bb}{%
+           family={Buarque},
+           familyi={B\bibinitperiod},
+           given={D.C.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=125b03fd28fabc98fe649df3e2401b4b}{%
+           family={Kornowski},
+           familyi={K\bibinitperiod},
+           given={L.W.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f50ac7db16b9a1c96ab20fd7ee4c69a8}{%
+           family={Laipelt},
+           familyi={L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43f9112bfed9e966a5cf896c5fd78824}{%
+           family={Collischonn},
+           familyi={C\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5c3aa291478e06ceb32b118c09a49b72}
+      \strng{fullhash}{4fefc80ccdeabbb46dfdeb347e243c33}
+      \strng{fullhashraw}{4fefc80ccdeabbb46dfdeb347e243c33}
+      \strng{bibnamehash}{4fefc80ccdeabbb46dfdeb347e243c33}
+      \strng{authorbibnamehash}{4fefc80ccdeabbb46dfdeb347e243c33}
+      \strng{authornamehash}{5c3aa291478e06ceb32b118c09a49b72}
+      \strng{authorfullhash}{4fefc80ccdeabbb46dfdeb347e243c33}
+      \strng{authorfullhashraw}{4fefc80ccdeabbb46dfdeb347e243c33}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Resources Research}
+      \field{title}{Sediment Flows in South America Supported by Daily Hydrologic-Hydrodynamic Modeling}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1029/2020wr027884
+      \endverb
+    \endentry
+    \entry{fleischmann2021regional}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=ee7d5743bd015b4a4794677abeaa2f62}{%
+           family={Fleischmann},
+           familyi={F\bibinitperiod},
+           given={A.S.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5346f0993a22cd12909d005c0cbd42d7}{%
+           family={Brêda},
+           familyi={B\bibinitperiod},
+           given={J.P.F.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c9c54f3159ca502f8955baff9f9ad09}{%
+           family={Passaia},
+           familyi={P\bibinitperiod},
+           given={O.A.},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ebf2f095dfc0474aa8907e2721e650b}{%
+           family={Wongchuig},
+           familyi={W\bibinitperiod},
+           given={S.C.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3e50bd240b3755edf83faa85038c1a2}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={F.M.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a29d42e7c2672323e1c487a969a610fa}{%
+           family={Paiva},
+           familyi={P\bibinitperiod},
+           given={R.C.D.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10a8acb5c41a738a0734b0796613be8a}{%
+           family={Marques},
+           familyi={M\bibinitperiod},
+           given={G.F.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43f9112bfed9e966a5cf896c5fd78824}{%
+           family={Collischonn},
+           familyi={C\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b92e7df557f8e7fa743bc20328f1bc28}
+      \strng{fullhash}{3497a5d7f5e81a09c3187bc36501111b}
+      \strng{fullhashraw}{3497a5d7f5e81a09c3187bc36501111b}
+      \strng{bibnamehash}{3497a5d7f5e81a09c3187bc36501111b}
+      \strng{authorbibnamehash}{3497a5d7f5e81a09c3187bc36501111b}
+      \strng{authornamehash}{b92e7df557f8e7fa743bc20328f1bc28}
+      \strng{authorfullhash}{3497a5d7f5e81a09c3187bc36501111b}
+      \strng{authorfullhashraw}{3497a5d7f5e81a09c3187bc36501111b}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Hydrology}
+      \field{title}{Regional scale hydrodynamic modeling of the river-floodplain-reservoir continuum}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1016/j.jhydrol.2021.126114
+      \endverb
+    \endentry
+    \entry{flores2026numerical}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=d4802e299b65185d4b5cf5301528891e}{%
+           family={Flores},
+           familyi={F\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9447a026260ec65030ed2c765ced252}{%
+           family={Medina},
+           familyi={M\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f406d1bf99417d3df04559b1dd5a835}{%
+           family={Castillo-Vergara},
+           familyi={C\bibinithyphendelim V\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be95be8df262135bad35ff67f3964d3d}{%
+           family={Iribarren},
+           familyi={I\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=78f73f562a17019ce329706a7920175a}{%
+           family={Azócar},
+           familyi={A\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33536c258c648fbf43852eb426e8bece}{%
+           family={Salazar},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bbaf8acbbaebb757c20209b58575fcfb}{%
+           family={Loarte},
+           familyi={L\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5bf1d1e293af0aab81f9acd54144ef68}
+      \strng{fullhash}{e230087d7c3be25119bf9429c034d531}
+      \strng{fullhashraw}{e230087d7c3be25119bf9429c034d531}
+      \strng{bibnamehash}{e230087d7c3be25119bf9429c034d531}
+      \strng{authorbibnamehash}{e230087d7c3be25119bf9429c034d531}
+      \strng{authornamehash}{5bf1d1e293af0aab81f9acd54144ef68}
+      \strng{authorfullhash}{e230087d7c3be25119bf9429c034d531}
+      \strng{authorfullhashraw}{e230087d7c3be25119bf9429c034d531}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hydrology}
+      \field{title}{Numerical Simulation of Rainfall-Induced Debris Flows Triggered by Cyclone Yaku 2023 in Chasquitambo, Peru}
+      \field{year}{2026}
+      \verb{doi}
+      \verb 10.3390/hydrology13030083
+      \endverb
+    \endentry
+    \entry{garcia2025parallel}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=3a0df15007c459adbf2d4fca56e97cb5}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a9664d3cf7c542d08bea64a8e1a08e9}{%
+           family={Estrada},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0c134645cb85b90f0b7619da11b50b6}{%
+           family={Palacios},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b3440c817da5aa2927387439261ec9a}{%
+           family={Davila},
+           familyi={D\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1711422627312fd2d36d1562cf55af8}{%
+           family={Quesquen},
+           familyi={Q\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f883c02840d61ac6e539090e397a228}{%
+           family={Morales},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=780fc0ab5102e508309485581fa75c11}{%
+           family={Adriano},
+           familyi={A\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed8404e79b9bf44e953b3219eaf92851}{%
+           family={Mas},
+           familyi={M\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0b7ca0fe1ec1bc8509d6b5d864690e5}{%
+           family={Koshimura},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{303b42bf3fbea424392f67f937b81958}
+      \strng{fullhash}{067f515c8cac974bad361086e3924d69}
+      \strng{fullhashraw}{067f515c8cac974bad361086e3924d69}
+      \strng{bibnamehash}{067f515c8cac974bad361086e3924d69}
+      \strng{authorbibnamehash}{067f515c8cac974bad361086e3924d69}
+      \strng{authornamehash}{303b42bf3fbea424392f67f937b81958}
+      \strng{authorfullhash}{067f515c8cac974bad361086e3924d69}
+      \strng{authorfullhashraw}{067f515c8cac974bad361086e3924d69}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Disaster Research}
+      \field{title}{Parallel Computing Approach for Rapid Estimation of Tsunami Hazard and Population Exposure in Peru}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.20965/jdr.2025.p0912
+      \endverb
+    \endentry
+    \entry{gutirrezgarca2022modelaci}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=b0a3c467a2a74da1e4a43f5a201a04da}{%
+           family={Gutiérrez\bibnamedelima García},
+           familyi={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Jesús\bibnamedelima Valentín},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c60baa8e7666b8fd15eae6520040a719}{%
+           family={Rubiños\bibnamedelima Panta},
+           familyi={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Juan\bibnamedelima Enrique},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a52c43881fef1a9c6450c73550a25fb1}{%
+           family={Fernández\bibnamedelima Reynoso},
+           familyi={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Demetrio\bibnamedelima Salvador},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2fc7f6ff9e55d1f2ffb4a730e8f20b4}{%
+           family={Ramírez\bibnamedelima Ayala},
+           familyi={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=78a9f2f7b0d96acaf833b4a6dbb071f0}{%
+           family={Roblero\bibnamedelima Hidalgo},
+           familyi={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Rodrigo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=851c0b268511f78667f1e4fa004cffd2}{%
+           family={Gutiérrez\bibnamedelima García},
+           familyi={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Francisco\bibnamedelima Gerardo},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a5bd636773773858479d2c3d79dac8e9}{%
+           family={Romero\bibnamedelima Sánchez},
+           familyi={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Martín\bibnamedelima Enrique},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{031aea31160fd789b64577e89013a58f}
+      \strng{fullhash}{18359ce31345db01c17a820509d35511}
+      \strng{fullhashraw}{18359ce31345db01c17a820509d35511}
+      \strng{bibnamehash}{18359ce31345db01c17a820509d35511}
+      \strng{authorbibnamehash}{18359ce31345db01c17a820509d35511}
+      \strng{authornamehash}{031aea31160fd789b64577e89013a58f}
+      \strng{authorfullhash}{18359ce31345db01c17a820509d35511}
+      \strng{authorfullhashraw}{18359ce31345db01c17a820509d35511}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista mexicana de ciencias forestales}
+      \field{title}{Modelación hidráulica en Iber para prevención de inundaciones en la cuenca Tesechoacán}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb http://www.scielo.org.mx/scielo.php?script=sci_arttext\&pid=S2007-11322022000300159\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://www.scielo.org.mx/scielo.php?script=sci_arttext%5C&pid=S2007-11322022000300159%5C&lang=es
+      \endverb
+    \endentry
+    \entry{jiang2023estimation}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=21ed5a9593993a3465bdd461e809951d}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae6f64f7b429f6425fbe070323390f1b}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a8b546013c14706bbc6da280e71c7a92}
+      \strng{fullhash}{a8b546013c14706bbc6da280e71c7a92}
+      \strng{fullhashraw}{a8b546013c14706bbc6da280e71c7a92}
+      \strng{bibnamehash}{a8b546013c14706bbc6da280e71c7a92}
+      \strng{authorbibnamehash}{a8b546013c14706bbc6da280e71c7a92}
+      \strng{authornamehash}{a8b546013c14706bbc6da280e71c7a92}
+      \strng{authorfullhash}{a8b546013c14706bbc6da280e71c7a92}
+      \strng{authorfullhashraw}{a8b546013c14706bbc6da280e71c7a92}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Soil Dynamics and Earthquake Engineering}
+      \field{title}{Estimation of the finite fault source model for the 2018 Mw7.1 Acari, Peru earthquake using a hybrid simulation prediction approach}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1016/j.soildyn.2022.107613
+      \endverb
+    \endentry
+    \entry{jimenez2025numerical}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d158caa8fc67d13403c8a2134da45f90}{%
+           family={Jiménez},
+           familyi={J\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d158caa8fc67d13403c8a2134da45f90}
+      \strng{fullhash}{d158caa8fc67d13403c8a2134da45f90}
+      \strng{fullhashraw}{d158caa8fc67d13403c8a2134da45f90}
+      \strng{bibnamehash}{d158caa8fc67d13403c8a2134da45f90}
+      \strng{authorbibnamehash}{d158caa8fc67d13403c8a2134da45f90}
+      \strng{authornamehash}{d158caa8fc67d13403c8a2134da45f90}
+      \strng{authorfullhash}{d158caa8fc67d13403c8a2134da45f90}
+      \strng{authorfullhashraw}{d158caa8fc67d13403c8a2134da45f90}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Seismology}
+      \field{title}{Numerical modelling of the 1996 Nazca Perú earthquake (Mw 7.7) and tsunami}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1007/s10950-025-10300-4
+      \endverb
+    \endentry
+    \entry{jimnez2023seismic}{article}{}{}
+      \name{author}{5}{ul=2}{%
+        {{un=0,uniquepart=base,hash=d158caa8fc67d13403c8a2134da45f90}{%
+           family={Jiménez},
+           familyi={J\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01db7c7173f621b4ed5727bb1490c8c0}{%
+           family={Carbonel},
+           familyi={C\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=208ff07a4ec9ce13e664758e1c25c421}{%
+           family={Villegas-Lanza},
+           familyi={V\bibinithyphendelim L\bibinitperiod},
+           given={J.C.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01916dd68d1216e0389950972b50a29f}{%
+           family={Quiroz},
+           familyi={Q\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61ad10c626e1d641e0b1d7b5f48d3233}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6679121dcf7de1baaecd21044f18dd18}
+      \strng{fullhash}{2753b9255aad7cfda4e9375bd6daca07}
+      \strng{fullhashraw}{2753b9255aad7cfda4e9375bd6daca07}
+      \strng{bibnamehash}{2753b9255aad7cfda4e9375bd6daca07}
+      \strng{authorbibnamehash}{2753b9255aad7cfda4e9375bd6daca07}
+      \strng{authornamehash}{6679121dcf7de1baaecd21044f18dd18}
+      \strng{authorfullhash}{2753b9255aad7cfda4e9375bd6daca07}
+      \strng{authorfullhashraw}{2753b9255aad7cfda4e9375bd6daca07}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pure and Applied Geophysics}
+      \field{title}{Seismic Source of 1966 Huacho Peru Earthquake (Mw 8.1) from Tsunami Waveform Inversion}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1007/s00024-022-03132-7
+      \endverb
+    \endentry
+    \entry{jimnez2023numerical}{article}{}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=d158caa8fc67d13403c8a2134da45f90}{%
+           family={Jiménez},
+           familyi={J\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=e2a7af2cece7f2cca49ad91aaabb79e6}{%
+           family={Saavedra},
+           familyi={S\bibinitperiod},
+           given={Miguel\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=c6e5b94f8513fd1b76f1d47140417743}{%
+           family={Zamudio},
+           familyi={Z\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=379b1d92fee333e523ddecba98f61c9c}{%
+           family={Olcese},
+           familyi={O\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5a262636d9b504171888a73ac0b15028}
+      \strng{fullhash}{06def2fe2d2a2d2781307628dbfbd12b}
+      \strng{fullhashraw}{06def2fe2d2a2d2781307628dbfbd12b}
+      \strng{bibnamehash}{06def2fe2d2a2d2781307628dbfbd12b}
+      \strng{authorbibnamehash}{06def2fe2d2a2d2781307628dbfbd12b}
+      \strng{authornamehash}{5a262636d9b504171888a73ac0b15028}
+      \strng{authorfullhash}{06def2fe2d2a2d2781307628dbfbd12b}
+      \strng{authorfullhashraw}{06def2fe2d2a2d2781307628dbfbd12b}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Seismology}
+      \field{title}{Numerical modelling of the 1970 intraslab Peru earthquake and tsunami (Mw 7.9)}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1007/s10950-022-10119-3
+      \endverb
+    \endentry
+    \entry{jimenez2024numerical}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d158caa8fc67d13403c8a2134da45f90}{%
+           family={Jiménez},
+           familyi={J\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61ad10c626e1d641e0b1d7b5f48d3233}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6b24b9d5915a43c0c14c3edff2a9cd37}
+      \strng{fullhash}{6b24b9d5915a43c0c14c3edff2a9cd37}
+      \strng{fullhashraw}{6b24b9d5915a43c0c14c3edff2a9cd37}
+      \strng{bibnamehash}{6b24b9d5915a43c0c14c3edff2a9cd37}
+      \strng{authorbibnamehash}{6b24b9d5915a43c0c14c3edff2a9cd37}
+      \strng{authornamehash}{6b24b9d5915a43c0c14c3edff2a9cd37}
+      \strng{authorfullhash}{6b24b9d5915a43c0c14c3edff2a9cd37}
+      \strng{authorfullhashraw}{6b24b9d5915a43c0c14c3edff2a9cd37}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physics of the Earth and Planetary Interiors}
+      \field{title}{Numerical modelling of the 1996 Chimbote-Peru tsunami earthquake (Mw 7.5)}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1016/j.pepi.2024.107154
+      \endverb
+    \endentry
+    \entry{kuchinski2025regional}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=98be0a97f997df8ea2f0316a8857cac3}{%
+           family={Kuchinski},
+           familyi={K\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3609187d3b0c4d111dfc6cfb3a349117}{%
+           family={Cauduro\bibnamedelimb Dias\bibnamedelimb de\bibnamedelima Paiva},
+           familyi={C\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0583701cef7189f09436976f7701b2aa}
+      \strng{fullhash}{0583701cef7189f09436976f7701b2aa}
+      \strng{fullhashraw}{0583701cef7189f09436976f7701b2aa}
+      \strng{bibnamehash}{0583701cef7189f09436976f7701b2aa}
+      \strng{authorbibnamehash}{0583701cef7189f09436976f7701b2aa}
+      \strng{authornamehash}{0583701cef7189f09436976f7701b2aa}
+      \strng{authorfullhash}{0583701cef7189f09436976f7701b2aa}
+      \strng{authorfullhashraw}{0583701cef7189f09436976f7701b2aa}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hydrological Sciences Journal}
+      \field{title}{Regional-scale flood mapping using naive Bayes and remote sensing: towards local relevance}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1080/02626667.2025.2506749
+      \endverb
+    \endentry
+    \entry{la2025modelizaci}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d79afdbd64818a09b654891f5bc0c7c7}{%
+           family={La\bibnamedelima Macchia},
+           familyi={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={María\bibnamedelima Lorena},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d79afdbd64818a09b654891f5bc0c7c7}
+      \strng{fullhash}{d79afdbd64818a09b654891f5bc0c7c7}
+      \strng{fullhashraw}{d79afdbd64818a09b654891f5bc0c7c7}
+      \strng{bibnamehash}{d79afdbd64818a09b654891f5bc0c7c7}
+      \strng{authorbibnamehash}{d79afdbd64818a09b654891f5bc0c7c7}
+      \strng{authornamehash}{d79afdbd64818a09b654891f5bc0c7c7}
+      \strng{authorfullhash}{d79afdbd64818a09b654891f5bc0c7c7}
+      \strng{authorfullhashraw}{d79afdbd64818a09b654891f5bc0c7c7}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista cartográfica}
+      \field{title}{Modelización hidrodinámica bidimensional y riesgo de inundaciones en la cuenca urbana de la ciudad de Tandil, Buenos Aires, Argentina}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb http://www.scielo.org.mx/scielo.php?script=sci_arttext\&pid=S2663-39812025000100079\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://www.scielo.org.mx/scielo.php?script=sci_arttext%5C&pid=S2663-39812025000100079%5C&lang=es
+      \endverb
+    \endentry
+    \entry{lemus2024modelaci}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8164dd3e1a61b7bbe07a2459d685db26}{%
+           family={Lemus},
+           familyi={L\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f008f701413cfaee25cfe9010586ef9}{%
+           family={Rodríguez},
+           familyi={R\bibinitperiod},
+           given={Jaime},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d9bb54e27e570bde197660eb357cca4}{%
+           family={Cáceres},
+           familyi={C\bibinitperiod},
+           given={Vicente},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d48e9b242a23c6f2c1d85b806f6ea22b}{%
+           family={Mery},
+           familyi={M\bibinitperiod},
+           given={Diego},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{71fce2c0a1cbb5f7a19af9235fc72473}
+      \strng{fullhash}{6e4f39db51d3d201bc5e6de11103040a}
+      \strng{fullhashraw}{6e4f39db51d3d201bc5e6de11103040a}
+      \strng{bibnamehash}{6e4f39db51d3d201bc5e6de11103040a}
+      \strng{authorbibnamehash}{6e4f39db51d3d201bc5e6de11103040a}
+      \strng{authornamehash}{71fce2c0a1cbb5f7a19af9235fc72473}
+      \strng{authorfullhash}{6e4f39db51d3d201bc5e6de11103040a}
+      \strng{authorfullhashraw}{6e4f39db51d3d201bc5e6de11103040a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Obras y proyectos}
+      \field{title}{Modelación computacional de deslizamientos de tierra masivos inducidos por sismos usando el Método del Punto Material}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb http://www.scielo.cl/scielo.php?script=sci_arttext\&pid=S0718-28132024000100104\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://www.scielo.cl/scielo.php?script=sci_arttext%5C&pid=S0718-28132024000100104%5C&lang=es
+      \endverb
+    \endentry
+    \entry{lengonzlez2022curso}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3afe9a2200faa0824610d3847051b67d}{%
+           family={León\bibnamedelima González},
+           familyi={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Leticia},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b7529665fd5ed4638f78141f66e7c2ab}{%
+           family={Arteaga\bibnamedelima García},
+           familyi={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Susana\bibnamedelima Rufiana},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4b755831202a997df9dfa1ce68496dc}{%
+           family={Hernández\bibnamedelima Cedeño},
+           familyi={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Reina\bibnamedelima Ysabel},
+           giveni={R\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e54f7d5626f358b07fca954a045b437c}{%
+           family={Molina\bibnamedelima Gómez},
+           familyi={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Ana\bibnamedelima María},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2c429df60b1ebd9adb93a7d2a4ed4803}
+      \strng{fullhash}{750a442a2a7e47b01ecfddaa83d720e0}
+      \strng{fullhashraw}{750a442a2a7e47b01ecfddaa83d720e0}
+      \strng{bibnamehash}{750a442a2a7e47b01ecfddaa83d720e0}
+      \strng{authorbibnamehash}{750a442a2a7e47b01ecfddaa83d720e0}
+      \strng{authornamehash}{2c429df60b1ebd9adb93a7d2a4ed4803}
+      \strng{authorfullhash}{750a442a2a7e47b01ecfddaa83d720e0}
+      \strng{authorfullhashraw}{750a442a2a7e47b01ecfddaa83d720e0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MediSur}
+      \field{title}{Curso de superación en gestión de riesgo frente a desastres naturales para los docentes de ciencias médicas}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb http://scielo.sld.cu/scielo.php?script=sci_arttext\&pid=S1727-897X2022000100087\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://scielo.sld.cu/scielo.php?script=sci_arttext%5C&pid=S1727-897X2022000100087%5C&lang=es
+      \endverb
+    \endentry
+    \entry{lpezsilva2025spatial}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=8360ee9f1faca8955945fd0f078a37bf}{%
+           family={López\bibnamedelima Silva},
+           familyi={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Maiquel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f12b7112babb9f43285176063959e6f5}{%
+           family={Carmenates\bibnamedelima Hernández},
+           familyi={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Dayma},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ced582f6209c941f9544f3455501a81d}{%
+           family={Ferrari\bibnamedelima Lavalle},
+           familyi={F\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Vanessa\bibnamedelima Lisbeth},
+           giveni={V\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=856bec99fefe8928d3e77df9e628c325}{%
+           family={Bravo\bibnamedelima Zapata},
+           familyi={B\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={David\bibnamedelima Humberto},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34a0c57fd202e1fcdbd3782d6dea89a0}{%
+           family={Brown\bibnamedelima Manrique},
+           familyi={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Oscar},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{69d87233b031a704e3dee237fc40fce2}
+      \strng{fullhash}{9e48c2fe993f844aa16b1a27e9bc6da0}
+      \strng{fullhashraw}{9e48c2fe993f844aa16b1a27e9bc6da0}
+      \strng{bibnamehash}{9e48c2fe993f844aa16b1a27e9bc6da0}
+      \strng{authorbibnamehash}{9e48c2fe993f844aa16b1a27e9bc6da0}
+      \strng{authornamehash}{69d87233b031a704e3dee237fc40fce2}
+      \strng{authorfullhash}{9e48c2fe993f844aa16b1a27e9bc6da0}
+      \strng{authorfullhashraw}{9e48c2fe993f844aa16b1a27e9bc6da0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Ciencias Técnicas Agropecuarias}
+      \field{title}{Spatial Limit of Agricultural risk and its Economic Impact Due to Flooding in the Chillon River, Peru}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb http://scielo.sld.cu/scielo.php?script=sci_arttext\&pid=S2071-00542025000100013\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://scielo.sld.cu/scielo.php?script=sci_arttext%5C&pid=S2071-00542025000100013%5C&lang=es
+      \endverb
+    \endentry
+    \entry{marin2021assessing}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=6f75bacee0b7c129c28b1547bc41ae1a}{%
+           family={Marin},
+           familyi={M\bibinitperiod},
+           given={R.J.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec1c7482790425a1e05e8f6cb9157eec}{%
+           family={Velásquez},
+           familyi={V\bibinitperiod},
+           given={M.F.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a4a8733415997b7941f8a65b3eb63ce}{%
+           family={García},
+           familyi={G\bibinitperiod},
+           given={E.F.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3bc35bd0a46f9b20e9e8f6e968043073}{%
+           family={Alvioli},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8fb9eb871a13326f1652525a783ef73}{%
+           family={Aristizábal},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0f0206b938994171fa534d93ff8aa098}
+      \strng{fullhash}{bb92b325317de9650097cd0aa93f021e}
+      \strng{fullhashraw}{bb92b325317de9650097cd0aa93f021e}
+      \strng{bibnamehash}{bb92b325317de9650097cd0aa93f021e}
+      \strng{authorbibnamehash}{bb92b325317de9650097cd0aa93f021e}
+      \strng{authornamehash}{0f0206b938994171fa534d93ff8aa098}
+      \strng{authorfullhash}{bb92b325317de9650097cd0aa93f021e}
+      \strng{authorfullhashraw}{bb92b325317de9650097cd0aa93f021e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Catena}
+      \field{title}{Assessing two methods of defining rainfall intensity and duration thresholds for shallow landslides in data-scarce catchments of the Colombian Andean Mountains}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1016/j.catena.2021.105563
+      \endverb
+    \endentry
+    \entry{meyrat2024simulating}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=23a873996e8812d38ff314526b2fc610}{%
+           family={Meyrat},
+           familyi={M\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=434cbd7f99b3e56ddbb9537a248b5c3c}{%
+           family={Munch},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea129e31c77ee128ce8910e963bed0f1}{%
+           family={Cicoira},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7efb743e5d335c6504022e2812112a1}{%
+           family={McArdell},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=648980ed7893da3819664482ebae49e5}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={C.R.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a8305e953835de31aa07f3ae63b2e98}{%
+           family={Frey},
+           familyi={F\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93c4465993501c8bd64112b01c0c7541}{%
+           family={Bartelt},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{80a9457b02f4f125654d04b719a40394}
+      \strng{fullhash}{c29b463bdf339f74431397b67b2792f4}
+      \strng{fullhashraw}{c29b463bdf339f74431397b67b2792f4}
+      \strng{bibnamehash}{c29b463bdf339f74431397b67b2792f4}
+      \strng{authorbibnamehash}{c29b463bdf339f74431397b67b2792f4}
+      \strng{authornamehash}{80a9457b02f4f125654d04b719a40394}
+      \strng{authorfullhash}{c29b463bdf339f74431397b67b2792f4}
+      \strng{authorfullhashraw}{c29b463bdf339f74431397b67b2792f4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Landslides}
+      \field{title}{Simulating glacier lake outburst floods (GLOFs) with a two-phase/layer debris flow model considering fluid-solid flow transitions}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1007/s10346-023-02157-w
+      \endverb
+    \endentry
+    \entry{moreno2025tsunami}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6fdeabda0e882a31cbe81ec4291f92ea}{%
+           family={Moreno},
+           familyi={M\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d158caa8fc67d13403c8a2134da45f90}{%
+           family={Jiménez},
+           familyi={J\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=208ff07a4ec9ce13e664758e1c25c421}{%
+           family={Villegas-Lanza},
+           familyi={V\bibinithyphendelim L\bibinitperiod},
+           given={J.C.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d10e54c41a18aebbe88c6f639823fe14}
+      \strng{fullhash}{a0f7461229d7e2377cf9af098aac9883}
+      \strng{fullhashraw}{a0f7461229d7e2377cf9af098aac9883}
+      \strng{bibnamehash}{a0f7461229d7e2377cf9af098aac9883}
+      \strng{authorbibnamehash}{a0f7461229d7e2377cf9af098aac9883}
+      \strng{authornamehash}{d10e54c41a18aebbe88c6f639823fe14}
+      \strng{authorfullhash}{a0f7461229d7e2377cf9af098aac9883}
+      \strng{authorfullhashraw}{a0f7461229d7e2377cf9af098aac9883}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Earthquake and Tsunami}
+      \field{title}{Tsunami Numerical Modeling and Static Stress Transfer of the 1960 Northern Peru Earthquake (Mw 7.6)}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1142/s1793431124500404
+      \endverb
+    \endentry
+    \entry{ochoacornejo2025rock}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=dcf84b8b5808e9be91b58757ba5efdeb}{%
+           family={Ochoa-Cornejo},
+           familyi={O\bibinithyphendelim C\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb5eff963b12ba69472319f104cbada2}{%
+           family={Palma},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f553b09a372ec62baafa9a12f468720a}{%
+           family={Sepúlveda},
+           familyi={S\bibinitperiod},
+           given={S.A.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b354a59d18dcfc1b6a8463a9cd9ef200}{%
+           family={Lara},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9949ef16308b9063543c2cd69373e61}{%
+           family={Burgos},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c708210cce23cea9df8f7df5d698772e}{%
+           family={Duhart},
+           familyi={D\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c65285a804e2c281c2184763dccafeb}
+      \strng{fullhash}{f2a8c69c301fa47f72267847499fee1a}
+      \strng{fullhashraw}{f2a8c69c301fa47f72267847499fee1a}
+      \strng{bibnamehash}{f2a8c69c301fa47f72267847499fee1a}
+      \strng{authorbibnamehash}{f2a8c69c301fa47f72267847499fee1a}
+      \strng{authornamehash}{9c65285a804e2c281c2184763dccafeb}
+      \strng{authorfullhash}{f2a8c69c301fa47f72267847499fee1a}
+      \strng{authorfullhashraw}{f2a8c69c301fa47f72267847499fee1a}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Landslides}
+      \field{title}{Rock slides in paraglacial environments in South America: three-dimensional modeling of glacier retreat and landslide inducing the 2017 Santa Lucía disaster in the Chilean Patagonia}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1007/s10346-024-02419-1
+      \endverb
+    \endentry
+    \entry{quesquen2025tsunami}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=f1711422627312fd2d36d1562cf55af8}{%
+           family={Quesquen},
+           familyi={Q\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a9664d3cf7c542d08bea64a8e1a08e9}{%
+           family={Estrada},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a0df15007c459adbf2d4fca56e97cb5}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b3440c817da5aa2927387439261ec9a}{%
+           family={Davila},
+           familyi={D\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9acd296043018b0a99bea6cfbb1c090}{%
+           family={Puchoc},
+           familyi={P\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0b7ca0fe1ec1bc8509d6b5d864690e5}{%
+           family={Koshimura},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1e5d8271d0e13124c8ce5dd2e09a88d4}
+      \strng{fullhash}{188e95e64c38bdaf5dce8263e4c0a304}
+      \strng{fullhashraw}{188e95e64c38bdaf5dce8263e4c0a304}
+      \strng{bibnamehash}{188e95e64c38bdaf5dce8263e4c0a304}
+      \strng{authorbibnamehash}{188e95e64c38bdaf5dce8263e4c0a304}
+      \strng{authornamehash}{1e5d8271d0e13124c8ce5dd2e09a88d4}
+      \strng{authorfullhash}{188e95e64c38bdaf5dce8263e4c0a304}
+      \strng{authorfullhashraw}{188e95e64c38bdaf5dce8263e4c0a304}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Disaster Research}
+      \field{title}{Tsunami Hazard and Exposure Assessment in Metropolitan Lima-Callao Under Historical and Plausible Seismic Scenarios}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.20965/jdr.2025.p0899
+      \endverb
+    \endentry
+    \entry{rojasguerrero2025lisis}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9ece11b90521ea8b887bbbaea4c69d56}{%
+           family={Rojas\bibnamedelima Guerrero},
+           familyi={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Darcy\bibnamedelima Xavier},
+           giveni={D\bibinitperiod\bibinitdelim X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=621d1282a35bc13780119aad8454566b}{%
+           family={García\bibnamedelima Fernández},
+           familyi={G\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Willman},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d17e4ddff2756d003fa59dbe0e34734}{%
+           family={Pizarro\bibnamedelima Muñoz},
+           familyi={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Claudia\bibnamedelima Lorena},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dbdc6e0308417cd15abac85f6621ef36}
+      \strng{fullhash}{d604bbfbb3187e417ea17cb12a25ead3}
+      \strng{fullhashraw}{d604bbfbb3187e417ea17cb12a25ead3}
+      \strng{bibnamehash}{d604bbfbb3187e417ea17cb12a25ead3}
+      \strng{authorbibnamehash}{d604bbfbb3187e417ea17cb12a25ead3}
+      \strng{authornamehash}{dbdc6e0308417cd15abac85f6621ef36}
+      \strng{authorfullhash}{d604bbfbb3187e417ea17cb12a25ead3}
+      \strng{authorfullhashraw}{d604bbfbb3187e417ea17cb12a25ead3}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Nova}
+      \field{title}{Análisis de las inundaciones mediante simulaciones Hidrológicas e Hidráulicas en el río Chorolque de Santiago de Cotagaita}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb http://www.scielo.org.bo/scielo.php?script=sci_arttext\&pid=S1683-07892025000200127\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://www.scielo.org.bo/scielo.php?script=sci_arttext%5C&pid=S1683-07892025000200127%5C&lang=es
+      \endverb
+    \endentry
+    \entry{saavedra2026impact}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=1,uniquepart=given,hash=39bc766e34e82fed2d9441d41bc61d14}{%
+           family={Saavedra},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=4cf1454cd766208a5f328a0f20c99ebf}{%
+           family={Siqueira},
+           familyi={S\bibinitperiod},
+           given={V.A.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=222225f260349d809a985147bd5137aa}{%
+           family={Brêda},
+           familyi={B\bibinitperiod},
+           given={J.P.L.F.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b7c8fb666f08dd311f78b569ee522df}{%
+           family={Millán-Arancibia},
+           familyi={M\bibinithyphendelim A\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49285a77d62e52e664b6020514675cea}{%
+           family={Lavado-Casimiro},
+           familyi={L\bibinithyphendelim C\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{632b8ef2624cc8878c62d4c589c29958}
+      \strng{fullhash}{8ad4a11726177d45334c1924453edbde}
+      \strng{fullhashraw}{8ad4a11726177d45334c1924453edbde}
+      \strng{bibnamehash}{8ad4a11726177d45334c1924453edbde}
+      \strng{authorbibnamehash}{8ad4a11726177d45334c1924453edbde}
+      \strng{authornamehash}{632b8ef2624cc8878c62d4c589c29958}
+      \strng{authorfullhash}{8ad4a11726177d45334c1924453edbde}
+      \strng{authorfullhashraw}{8ad4a11726177d45334c1924453edbde}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Water}
+      \field{title}{Impact of climate change on the magnitude and extent of riverine floods in a Peruvian Andean–Amazonian basin}
+      \field{year}{2026}
+      \verb{doi}
+      \verb 10.3389/frwa.2026.1709082
+      \endverb
+    \endentry
+    \entry{snchezpineda2025evaluaci}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=27323843ccd0bd42bf722d86264718b3}{%
+           family={Sánchez\bibnamedelima Pineda},
+           familyi={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Nancy\bibnamedelima Estela},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a67edeaa0d51543157a22fa585dc57db}{%
+           family={Garzón\bibnamedelima Barrero},
+           familyi={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Julián},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0d34afc18be3f0be350a37758f4fc58}{%
+           family={González\bibnamedelima Valencia},
+           familyi={G\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Juan\bibnamedelima Carlos},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{71ddf1be546f5593ae0f103a3743bbc7}
+      \strng{fullhash}{a3fa27b44c6c9e64b51456d5b6fcfde4}
+      \strng{fullhashraw}{a3fa27b44c6c9e64b51456d5b6fcfde4}
+      \strng{bibnamehash}{a3fa27b44c6c9e64b51456d5b6fcfde4}
+      \strng{authorbibnamehash}{a3fa27b44c6c9e64b51456d5b6fcfde4}
+      \strng{authornamehash}{71ddf1be546f5593ae0f103a3743bbc7}
+      \strng{authorfullhash}{a3fa27b44c6c9e64b51456d5b6fcfde4}
+      \strng{authorfullhashraw}{a3fa27b44c6c9e64b51456d5b6fcfde4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ciencia e Ingeniería Neogranadina}
+      \field{title}{Evaluación de escenarios de inundación mediante herramientas hidrodinámicas y geoespaciales: el caso de estudio del río Bugalagrande, Colombia}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb http://www.scielo.org.co/scielo.php?script=sci_arttext\&pid=S0124-81702025000200121\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://www.scielo.org.co/scielo.php?script=sci_arttext%5C&pid=S0124-81702025000200121%5C&lang=es
+      \endverb
+    \endentry
+    \entry{stuartsmith2021increased}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=cd880cea14b7759afe6632d9e0c72232}{%
+           family={Stuart-Smith},
+           familyi={S\bibinithyphendelim S\bibinitperiod},
+           given={R.F.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5e20f6b768bead75c41a740625566fc}{%
+           family={Roe},
+           familyi={R\bibinitperiod},
+           given={G.H.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ee6724aae227dcac2949962d898b300}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b2fccd5057757339504803f88d67fec}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={M.R.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{422a041f3fa877a4bfdde4408f050400}
+      \strng{fullhash}{bab031d73539f228956c121c205f47bd}
+      \strng{fullhashraw}{bab031d73539f228956c121c205f47bd}
+      \strng{bibnamehash}{bab031d73539f228956c121c205f47bd}
+      \strng{authorbibnamehash}{bab031d73539f228956c121c205f47bd}
+      \strng{authornamehash}{422a041f3fa877a4bfdde4408f050400}
+      \strng{authorfullhash}{bab031d73539f228956c121c205f47bd}
+      \strng{authorfullhashraw}{bab031d73539f228956c121c205f47bd}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Geoscience}
+      \field{title}{Increased outburst flood hazard from Lake Palcacocha due to human-induced glacier retreat}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1038/s41561-021-00686-4
+      \endverb
+    \endentry
+    \entry{varelaledesma2021tecnolog}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ddb47ed74f2a0a4d4cf5e98a305e0c14}{%
+           family={Varela-Ledesma},
+           familyi={V\bibinithyphendelim L\bibinitperiod},
+           given={Nélida},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7eb844bd4e2c8f6db0a80bdb79c90802}{%
+           family={Mulet-Deulofeu},
+           familyi={M\bibinithyphendelim D\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9beac11835ad695b06e63cedffca4b1a}{%
+           family={Rojas-Varela},
+           familyi={R\bibinithyphendelim V\bibinitperiod},
+           given={Lisabeth},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0b03cf80dab25d0cf8a08235ba8c017f}
+      \strng{fullhash}{661844e4ebbb6db9d31cd623e2196459}
+      \strng{fullhashraw}{661844e4ebbb6db9d31cd623e2196459}
+      \strng{bibnamehash}{661844e4ebbb6db9d31cd623e2196459}
+      \strng{authorbibnamehash}{661844e4ebbb6db9d31cd623e2196459}
+      \strng{authornamehash}{0b03cf80dab25d0cf8a08235ba8c017f}
+      \strng{authorfullhash}{661844e4ebbb6db9d31cd623e2196459}
+      \strng{authorfullhashraw}{661844e4ebbb6db9d31cd623e2196459}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ingeniería Industrial}
+      \field{title}{Tecnología de gestión del riesgo por sequía para la toma de decisiones}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb http://scielo.sld.cu/scielo.php?script=sci_arttext\&pid=S1815-59362021000100134\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://scielo.sld.cu/scielo.php?script=sci_arttext%5C&pid=S1815-59362021000100134%5C&lang=es
+      \endverb
+    \endentry
+    \entry{vilca2021glacial}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=4a289b7b9d17258bd2a23fad9948ed6c}{%
+           family={Vilca},
+           familyi={V\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=559054b38a3e094da1e48d5ec3bf24ae}{%
+           family={Mergili},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18f489bbdd0b4f9416555f099a14c88c}{%
+           family={Emmer},
+           familyi={E\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a8305e953835de31aa07f3ae63b2e98}{%
+           family={Frey},
+           familyi={F\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22259bedad6aa97a9ebe5f1f09dcd524}{%
+           family={Huggel},
+           familyi={H\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e31e0b196514c5c1360a80032ef1da68}
+      \strng{fullhash}{8f6220fb589b16c7387765a0a0eadf12}
+      \strng{fullhashraw}{8f6220fb589b16c7387765a0a0eadf12}
+      \strng{bibnamehash}{8f6220fb589b16c7387765a0a0eadf12}
+      \strng{authorbibnamehash}{8f6220fb589b16c7387765a0a0eadf12}
+      \strng{authornamehash}{e31e0b196514c5c1360a80032ef1da68}
+      \strng{authorfullhash}{8f6220fb589b16c7387765a0a0eadf12}
+      \strng{authorfullhashraw}{8f6220fb589b16c7387765a0a0eadf12}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Landslides}
+      \field{title}{The 2020 glacial lake outburst flood process chain at Lake Salkantaycocha (Cordillera Vilcabamba, Peru)}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1007/s10346-021-01670-0
+      \endverb
+    \endentry
+    \entry{yupanqui2025hybrid}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a97071113c5ce31f73b95995f61a5e5a}{%
+           family={Yupanqui},
+           familyi={Y\bibinitperiod},
+           given={P.R.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab8f72db04b5dddd05c47149d4c0ed05}{%
+           family={Orihuela},
+           familyi={O\bibinitperiod},
+           given={J.L.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d615f66714daf34192c8534ddd4c1c3}{%
+           family={Delgadillo},
+           familyi={D\bibinitperiod},
+           given={R.M.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2acc54008cc6377e889f60a8cb49d780}
+      \strng{fullhash}{8de7b1f7e825fe143514f8bf05071f70}
+      \strng{fullhashraw}{8de7b1f7e825fe143514f8bf05071f70}
+      \strng{bibnamehash}{8de7b1f7e825fe143514f8bf05071f70}
+      \strng{authorbibnamehash}{8de7b1f7e825fe143514f8bf05071f70}
+      \strng{authornamehash}{2acc54008cc6377e889f60a8cb49d780}
+      \strng{authorfullhash}{8de7b1f7e825fe143514f8bf05071f70}
+      \strng{authorfullhashraw}{8de7b1f7e825fe143514f8bf05071f70}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Infrastructures}
+      \field{title}{Hybrid AI–FEA Framework for Seismic Assessment of Confined Masonry Walls Using Crack Image-Based Material Property Inference}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.3390/infrastructures10120323
+      \endverb
+    \endentry
+    \entry{zamora2021evaluaci}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=6d1c8bba28dad8527e2b373eea0a4241}{%
+           family={Zamora},
+           familyi={Z\bibinitperiod},
+           given={Natalia},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5fc3f1603178b4e89b966a6b1ca41c84}{%
+           family={Arroyo-Solórzano},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff49eef5254877e87052957fcc13a5d2}{%
+           family={Porras},
+           familyi={P\bibinitperiod},
+           given={Hernán},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f3f6585b939ff987ef67e07e37872d5}{%
+           family={Chacón},
+           familyi={C\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=051e772998905f97f881c8a46d9f8116}{%
+           family={Rivera},
+           familyi={R\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4378260f20af236a27d41548ae423679}{%
+           family={Murillo},
+           familyi={M\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9253a3463163628f4bc5a3a746bd1dc4}
+      \strng{fullhash}{8fea6129ea5ff041ae8395dfdc8d09a3}
+      \strng{fullhashraw}{8fea6129ea5ff041ae8395dfdc8d09a3}
+      \strng{bibnamehash}{8fea6129ea5ff041ae8395dfdc8d09a3}
+      \strng{authorbibnamehash}{8fea6129ea5ff041ae8395dfdc8d09a3}
+      \strng{authornamehash}{9253a3463163628f4bc5a3a746bd1dc4}
+      \strng{authorfullhash}{8fea6129ea5ff041ae8395dfdc8d09a3}
+      \strng{authorfullhashraw}{8fea6129ea5ff041ae8395dfdc8d09a3}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Geológica de América Central}
+      \field{title}{Evaluación del potencial de tsunamis locales con base en análisis sismo-tectónico en el Caribe de Costa Rica}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb http://www.scielo.sa.cr/scielo.php?script=sci_arttext\&pid=S0256-70242021000200281\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://www.scielo.sa.cr/scielo.php?script=sci_arttext%5C&pid=S0256-70242021000200281%5C&lang=es
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{androsov2024nonlinear}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=fb6567ccb26bb1d68f67b6dde7bad9bf}{%
+           family={Androsov},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06643af0a027f5661bd64bd62a2f8c1b}{%
+           family={Harig},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=66aa2ddf6ca1791c1c97585a46044eef}{%
+           family={Zamora},
+           familyi={Z\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3be623841596bcf9a52c922e7b68294c}{%
+           family={Knauer},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d350ceb2ddf4cf6cad7234a9932d8d9a}{%
+           family={Rakowsky},
+           familyi={R\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d4d5d5a72831d073af7310091e2fc1c0}
+      \strng{fullhash}{912b93d0a0512f78c7592b96515161bf}
+      \strng{fullhashraw}{912b93d0a0512f78c7592b96515161bf}
+      \strng{bibnamehash}{912b93d0a0512f78c7592b96515161bf}
+      \strng{authorbibnamehash}{912b93d0a0512f78c7592b96515161bf}
+      \strng{authornamehash}{d4d5d5a72831d073af7310091e2fc1c0}
+      \strng{authorfullhash}{912b93d0a0512f78c7592b96515161bf}
+      \strng{authorfullhashraw}{912b93d0a0512f78c7592b96515161bf}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Natural Hazards and Earth System Sciences}
+      \field{title}{Nonlinear processes in tsunami simulations for the Peruvian coast with focus on Lima and Callao}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.5194/nhess-24-1635-2024
+      \endverb
+    \endentry
+    \entry{ariasvalencia2024lisis}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ee3f8f8e26988257f5da70d7fd59c9fc}{%
+           family={Arias-Valencia},
+           familyi={A\bibinithyphendelim V\bibinitperiod},
+           given={Diana\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac955e527f4b995eae4be013153863bb}{%
+           family={Aristizábal-Arias},
+           familyi={A\bibinithyphendelim A\bibinitperiod},
+           given={Jorge\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c862764f6bb10d65db1f5ae04af6b017}
+      \strng{fullhash}{c862764f6bb10d65db1f5ae04af6b017}
+      \strng{fullhashraw}{c862764f6bb10d65db1f5ae04af6b017}
+      \strng{bibnamehash}{c862764f6bb10d65db1f5ae04af6b017}
+      \strng{authorbibnamehash}{c862764f6bb10d65db1f5ae04af6b017}
+      \strng{authornamehash}{c862764f6bb10d65db1f5ae04af6b017}
+      \strng{authorfullhash}{c862764f6bb10d65db1f5ae04af6b017}
+      \strng{authorfullhashraw}{c862764f6bb10d65db1f5ae04af6b017}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Información tecnológica}
+      \field{title}{Análisis probabilístico de estabilidad de taludes con falla planar en la Comuna Universitaria de la ciudad de Manizales (Colombia)}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb http://www.scielo.cl/scielo.php?script=sci_arttext\&pid=S0718-07642024000300001\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://www.scielo.cl/scielo.php?script=sci_arttext%5C&pid=S0718-07642024000300001%5C&lang=es
+      \endverb
+    \endentry
+    \entry{davila2025probabilistic}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=6b3440c817da5aa2927387439261ec9a}{%
+           family={Davila},
+           familyi={D\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a9664d3cf7c542d08bea64a8e1a08e9}{%
+           family={Estrada},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=696662c3bedee8fa233e51fa3fb5f953}{%
+           family={Ceferino},
+           familyi={C\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f883c02840d61ac6e539090e397a228}{%
+           family={Morales},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a0df15007c459adbf2d4fca56e97cb5}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0b7ca0fe1ec1bc8509d6b5d864690e5}{%
+           family={Koshimura},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6c591897f0ba712ef817acf53eb5de82}
+      \strng{fullhash}{f5a3aa34ccd7937b12c17072f97c609e}
+      \strng{fullhashraw}{f5a3aa34ccd7937b12c17072f97c609e}
+      \strng{bibnamehash}{f5a3aa34ccd7937b12c17072f97c609e}
+      \strng{authorbibnamehash}{f5a3aa34ccd7937b12c17072f97c609e}
+      \strng{authornamehash}{6c591897f0ba712ef817acf53eb5de82}
+      \strng{authorfullhash}{f5a3aa34ccd7937b12c17072f97c609e}
+      \strng{authorfullhashraw}{f5a3aa34ccd7937b12c17072f97c609e}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Disaster Research}
+      \field{title}{Probabilistic Tsunami Hazard Assessment Based on Time and Space Dependent Rupture Analysis of the Central Peruvian Subduction Zone}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.20965/jdr.2025.p0922
+      \endverb
+    \endentry
+    \entry{escobarsilva2023assessing}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=5cf0ce4a9432d85fc92f8623b236d7c7}{%
+           family={Escobar-Silva},
+           familyi={E\bibinithyphendelim S\bibinitperiod},
+           given={E.V.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=118884369b92c816093c97d187c505d0}{%
+           family={Almeida},
+           familyi={A\bibinitperiod},
+           given={C.M.D.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd96e0e6b24c5cfdb97cfc045f3eadbf}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={G.B.L.D.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e703b0c4d3c2ad0ba0949c1b21c5369e}{%
+           family={Bursteinas},
+           familyi={B\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e192a4631358f4a9a47bdbeb795f9e63}{%
+           family={Rocha\bibnamedelima Filho},
+           familyi={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={K.L.D.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8150f153502edf328f5ba1794b2b21e5}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={C.G.},
+           giveni={C\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=99a6c8e986f930dcfd1cd01e53a18e3b}{%
+           family={Fagundes},
+           familyi={F\bibinitperiod},
+           given={M.R.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8e5d316a4c46929382c0e0b7b925300}{%
+           family={Paiva},
+           familyi={P\bibinitperiod},
+           given={R.C.D.D.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3a50dde0b96dc38e304d14963e651d9d}
+      \strng{fullhash}{402ef8da15718fb1c1d83a2f873d2b31}
+      \strng{fullhashraw}{402ef8da15718fb1c1d83a2f873d2b31}
+      \strng{bibnamehash}{402ef8da15718fb1c1d83a2f873d2b31}
+      \strng{authorbibnamehash}{402ef8da15718fb1c1d83a2f873d2b31}
+      \strng{authornamehash}{3a50dde0b96dc38e304d14963e651d9d}
+      \strng{authorfullhash}{402ef8da15718fb1c1d83a2f873d2b31}
+      \strng{authorfullhashraw}{402ef8da15718fb1c1d83a2f873d2b31}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water (Switzerland)}
+      \field{title}{Assessing the Extent of Flood-Prone Areas in a South-American Megacity Using Different High Resolution DTMs}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.3390/w15061127
+      \endverb
+    \endentry
+    \entry{fagundes2021sediment}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=2dbe77bc6f7651daf4980511ae3e4acd}{%
+           family={Fagundes},
+           familyi={F\bibinitperiod},
+           given={H.O.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3e50bd240b3755edf83faa85038c1a2}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={F.M.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a29d42e7c2672323e1c487a969a610fa}{%
+           family={Paiva},
+           familyi={P\bibinitperiod},
+           given={R.C.D.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4cf1454cd766208a5f328a0f20c99ebf}{%
+           family={Siqueira},
+           familyi={S\bibinitperiod},
+           given={V.A.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17058f6ea05a1107a04fcb57a9cce4bb}{%
+           family={Buarque},
+           familyi={B\bibinitperiod},
+           given={D.C.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=125b03fd28fabc98fe649df3e2401b4b}{%
+           family={Kornowski},
+           familyi={K\bibinitperiod},
+           given={L.W.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f50ac7db16b9a1c96ab20fd7ee4c69a8}{%
+           family={Laipelt},
+           familyi={L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43f9112bfed9e966a5cf896c5fd78824}{%
+           family={Collischonn},
+           familyi={C\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5c3aa291478e06ceb32b118c09a49b72}
+      \strng{fullhash}{4fefc80ccdeabbb46dfdeb347e243c33}
+      \strng{fullhashraw}{4fefc80ccdeabbb46dfdeb347e243c33}
+      \strng{bibnamehash}{4fefc80ccdeabbb46dfdeb347e243c33}
+      \strng{authorbibnamehash}{4fefc80ccdeabbb46dfdeb347e243c33}
+      \strng{authornamehash}{5c3aa291478e06ceb32b118c09a49b72}
+      \strng{authorfullhash}{4fefc80ccdeabbb46dfdeb347e243c33}
+      \strng{authorfullhashraw}{4fefc80ccdeabbb46dfdeb347e243c33}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Resources Research}
+      \field{title}{Sediment Flows in South America Supported by Daily Hydrologic-Hydrodynamic Modeling}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1029/2020wr027884
+      \endverb
+    \endentry
+    \entry{fleischmann2021regional}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=ee7d5743bd015b4a4794677abeaa2f62}{%
+           family={Fleischmann},
+           familyi={F\bibinitperiod},
+           given={A.S.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5346f0993a22cd12909d005c0cbd42d7}{%
+           family={Brêda},
+           familyi={B\bibinitperiod},
+           given={J.P.F.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c9c54f3159ca502f8955baff9f9ad09}{%
+           family={Passaia},
+           familyi={P\bibinitperiod},
+           given={O.A.},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ebf2f095dfc0474aa8907e2721e650b}{%
+           family={Wongchuig},
+           familyi={W\bibinitperiod},
+           given={S.C.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3e50bd240b3755edf83faa85038c1a2}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={F.M.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a29d42e7c2672323e1c487a969a610fa}{%
+           family={Paiva},
+           familyi={P\bibinitperiod},
+           given={R.C.D.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10a8acb5c41a738a0734b0796613be8a}{%
+           family={Marques},
+           familyi={M\bibinitperiod},
+           given={G.F.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=43f9112bfed9e966a5cf896c5fd78824}{%
+           family={Collischonn},
+           familyi={C\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b92e7df557f8e7fa743bc20328f1bc28}
+      \strng{fullhash}{3497a5d7f5e81a09c3187bc36501111b}
+      \strng{fullhashraw}{3497a5d7f5e81a09c3187bc36501111b}
+      \strng{bibnamehash}{3497a5d7f5e81a09c3187bc36501111b}
+      \strng{authorbibnamehash}{3497a5d7f5e81a09c3187bc36501111b}
+      \strng{authornamehash}{b92e7df557f8e7fa743bc20328f1bc28}
+      \strng{authorfullhash}{3497a5d7f5e81a09c3187bc36501111b}
+      \strng{authorfullhashraw}{3497a5d7f5e81a09c3187bc36501111b}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Hydrology}
+      \field{title}{Regional scale hydrodynamic modeling of the river-floodplain-reservoir continuum}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1016/j.jhydrol.2021.126114
+      \endverb
+    \endentry
+    \entry{flores2026numerical}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=d4802e299b65185d4b5cf5301528891e}{%
+           family={Flores},
+           familyi={F\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9447a026260ec65030ed2c765ced252}{%
+           family={Medina},
+           familyi={M\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f406d1bf99417d3df04559b1dd5a835}{%
+           family={Castillo-Vergara},
+           familyi={C\bibinithyphendelim V\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be95be8df262135bad35ff67f3964d3d}{%
+           family={Iribarren},
+           familyi={I\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=78f73f562a17019ce329706a7920175a}{%
+           family={Azócar},
+           familyi={A\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33536c258c648fbf43852eb426e8bece}{%
+           family={Salazar},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bbaf8acbbaebb757c20209b58575fcfb}{%
+           family={Loarte},
+           familyi={L\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5bf1d1e293af0aab81f9acd54144ef68}
+      \strng{fullhash}{e230087d7c3be25119bf9429c034d531}
+      \strng{fullhashraw}{e230087d7c3be25119bf9429c034d531}
+      \strng{bibnamehash}{e230087d7c3be25119bf9429c034d531}
+      \strng{authorbibnamehash}{e230087d7c3be25119bf9429c034d531}
+      \strng{authornamehash}{5bf1d1e293af0aab81f9acd54144ef68}
+      \strng{authorfullhash}{e230087d7c3be25119bf9429c034d531}
+      \strng{authorfullhashraw}{e230087d7c3be25119bf9429c034d531}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hydrology}
+      \field{title}{Numerical Simulation of Rainfall-Induced Debris Flows Triggered by Cyclone Yaku 2023 in Chasquitambo, Peru}
+      \field{year}{2026}
+      \verb{doi}
+      \verb 10.3390/hydrology13030083
+      \endverb
+    \endentry
+    \entry{garcia2025parallel}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=3a0df15007c459adbf2d4fca56e97cb5}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a9664d3cf7c542d08bea64a8e1a08e9}{%
+           family={Estrada},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0c134645cb85b90f0b7619da11b50b6}{%
+           family={Palacios},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b3440c817da5aa2927387439261ec9a}{%
+           family={Davila},
+           familyi={D\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1711422627312fd2d36d1562cf55af8}{%
+           family={Quesquen},
+           familyi={Q\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f883c02840d61ac6e539090e397a228}{%
+           family={Morales},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=780fc0ab5102e508309485581fa75c11}{%
+           family={Adriano},
+           familyi={A\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed8404e79b9bf44e953b3219eaf92851}{%
+           family={Mas},
+           familyi={M\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0b7ca0fe1ec1bc8509d6b5d864690e5}{%
+           family={Koshimura},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{303b42bf3fbea424392f67f937b81958}
+      \strng{fullhash}{067f515c8cac974bad361086e3924d69}
+      \strng{fullhashraw}{067f515c8cac974bad361086e3924d69}
+      \strng{bibnamehash}{067f515c8cac974bad361086e3924d69}
+      \strng{authorbibnamehash}{067f515c8cac974bad361086e3924d69}
+      \strng{authornamehash}{303b42bf3fbea424392f67f937b81958}
+      \strng{authorfullhash}{067f515c8cac974bad361086e3924d69}
+      \strng{authorfullhashraw}{067f515c8cac974bad361086e3924d69}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Disaster Research}
+      \field{title}{Parallel Computing Approach for Rapid Estimation of Tsunami Hazard and Population Exposure in Peru}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.20965/jdr.2025.p0912
+      \endverb
+    \endentry
+    \entry{gutirrezgarca2022modelaci}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=b0a3c467a2a74da1e4a43f5a201a04da}{%
+           family={Gutiérrez\bibnamedelima García},
+           familyi={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Jesús\bibnamedelima Valentín},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c60baa8e7666b8fd15eae6520040a719}{%
+           family={Rubiños\bibnamedelima Panta},
+           familyi={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Juan\bibnamedelima Enrique},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a52c43881fef1a9c6450c73550a25fb1}{%
+           family={Fernández\bibnamedelima Reynoso},
+           familyi={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Demetrio\bibnamedelima Salvador},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2fc7f6ff9e55d1f2ffb4a730e8f20b4}{%
+           family={Ramírez\bibnamedelima Ayala},
+           familyi={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=78a9f2f7b0d96acaf833b4a6dbb071f0}{%
+           family={Roblero\bibnamedelima Hidalgo},
+           familyi={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Rodrigo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=851c0b268511f78667f1e4fa004cffd2}{%
+           family={Gutiérrez\bibnamedelima García},
+           familyi={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Francisco\bibnamedelima Gerardo},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a5bd636773773858479d2c3d79dac8e9}{%
+           family={Romero\bibnamedelima Sánchez},
+           familyi={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Martín\bibnamedelima Enrique},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{031aea31160fd789b64577e89013a58f}
+      \strng{fullhash}{18359ce31345db01c17a820509d35511}
+      \strng{fullhashraw}{18359ce31345db01c17a820509d35511}
+      \strng{bibnamehash}{18359ce31345db01c17a820509d35511}
+      \strng{authorbibnamehash}{18359ce31345db01c17a820509d35511}
+      \strng{authornamehash}{031aea31160fd789b64577e89013a58f}
+      \strng{authorfullhash}{18359ce31345db01c17a820509d35511}
+      \strng{authorfullhashraw}{18359ce31345db01c17a820509d35511}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista mexicana de ciencias forestales}
+      \field{title}{Modelación hidráulica en Iber para prevención de inundaciones en la cuenca Tesechoacán}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb http://www.scielo.org.mx/scielo.php?script=sci_arttext\&pid=S2007-11322022000300159\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://www.scielo.org.mx/scielo.php?script=sci_arttext%5C&pid=S2007-11322022000300159%5C&lang=es
+      \endverb
+    \endentry
+    \entry{jiang2023estimation}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=21ed5a9593993a3465bdd461e809951d}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae6f64f7b429f6425fbe070323390f1b}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a8b546013c14706bbc6da280e71c7a92}
+      \strng{fullhash}{a8b546013c14706bbc6da280e71c7a92}
+      \strng{fullhashraw}{a8b546013c14706bbc6da280e71c7a92}
+      \strng{bibnamehash}{a8b546013c14706bbc6da280e71c7a92}
+      \strng{authorbibnamehash}{a8b546013c14706bbc6da280e71c7a92}
+      \strng{authornamehash}{a8b546013c14706bbc6da280e71c7a92}
+      \strng{authorfullhash}{a8b546013c14706bbc6da280e71c7a92}
+      \strng{authorfullhashraw}{a8b546013c14706bbc6da280e71c7a92}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Soil Dynamics and Earthquake Engineering}
+      \field{title}{Estimation of the finite fault source model for the 2018 Mw7.1 Acari, Peru earthquake using a hybrid simulation prediction approach}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1016/j.soildyn.2022.107613
+      \endverb
+    \endentry
+    \entry{jimenez2025numerical}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d158caa8fc67d13403c8a2134da45f90}{%
+           family={Jiménez},
+           familyi={J\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d158caa8fc67d13403c8a2134da45f90}
+      \strng{fullhash}{d158caa8fc67d13403c8a2134da45f90}
+      \strng{fullhashraw}{d158caa8fc67d13403c8a2134da45f90}
+      \strng{bibnamehash}{d158caa8fc67d13403c8a2134da45f90}
+      \strng{authorbibnamehash}{d158caa8fc67d13403c8a2134da45f90}
+      \strng{authornamehash}{d158caa8fc67d13403c8a2134da45f90}
+      \strng{authorfullhash}{d158caa8fc67d13403c8a2134da45f90}
+      \strng{authorfullhashraw}{d158caa8fc67d13403c8a2134da45f90}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Seismology}
+      \field{title}{Numerical modelling of the 1996 Nazca Perú earthquake (Mw 7.7) and tsunami}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1007/s10950-025-10300-4
+      \endverb
+    \endentry
+    \entry{jimnez2023seismic}{article}{}{}
+      \name{author}{5}{ul=2}{%
+        {{un=0,uniquepart=base,hash=d158caa8fc67d13403c8a2134da45f90}{%
+           family={Jiménez},
+           familyi={J\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01db7c7173f621b4ed5727bb1490c8c0}{%
+           family={Carbonel},
+           familyi={C\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=208ff07a4ec9ce13e664758e1c25c421}{%
+           family={Villegas-Lanza},
+           familyi={V\bibinithyphendelim L\bibinitperiod},
+           given={J.C.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01916dd68d1216e0389950972b50a29f}{%
+           family={Quiroz},
+           familyi={Q\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61ad10c626e1d641e0b1d7b5f48d3233}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6679121dcf7de1baaecd21044f18dd18}
+      \strng{fullhash}{2753b9255aad7cfda4e9375bd6daca07}
+      \strng{fullhashraw}{2753b9255aad7cfda4e9375bd6daca07}
+      \strng{bibnamehash}{2753b9255aad7cfda4e9375bd6daca07}
+      \strng{authorbibnamehash}{2753b9255aad7cfda4e9375bd6daca07}
+      \strng{authornamehash}{6679121dcf7de1baaecd21044f18dd18}
+      \strng{authorfullhash}{2753b9255aad7cfda4e9375bd6daca07}
+      \strng{authorfullhashraw}{2753b9255aad7cfda4e9375bd6daca07}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pure and Applied Geophysics}
+      \field{title}{Seismic Source of 1966 Huacho Peru Earthquake (Mw 8.1) from Tsunami Waveform Inversion}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1007/s00024-022-03132-7
+      \endverb
+    \endentry
+    \entry{jimnez2023numerical}{article}{}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=d158caa8fc67d13403c8a2134da45f90}{%
+           family={Jiménez},
+           familyi={J\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=e2a7af2cece7f2cca49ad91aaabb79e6}{%
+           family={Saavedra},
+           familyi={S\bibinitperiod},
+           given={Miguel\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=c6e5b94f8513fd1b76f1d47140417743}{%
+           family={Zamudio},
+           familyi={Z\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=379b1d92fee333e523ddecba98f61c9c}{%
+           family={Olcese},
+           familyi={O\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5a262636d9b504171888a73ac0b15028}
+      \strng{fullhash}{06def2fe2d2a2d2781307628dbfbd12b}
+      \strng{fullhashraw}{06def2fe2d2a2d2781307628dbfbd12b}
+      \strng{bibnamehash}{06def2fe2d2a2d2781307628dbfbd12b}
+      \strng{authorbibnamehash}{06def2fe2d2a2d2781307628dbfbd12b}
+      \strng{authornamehash}{5a262636d9b504171888a73ac0b15028}
+      \strng{authorfullhash}{06def2fe2d2a2d2781307628dbfbd12b}
+      \strng{authorfullhashraw}{06def2fe2d2a2d2781307628dbfbd12b}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Seismology}
+      \field{title}{Numerical modelling of the 1970 intraslab Peru earthquake and tsunami (Mw 7.9)}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1007/s10950-022-10119-3
+      \endverb
+    \endentry
+    \entry{jimenez2024numerical}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d158caa8fc67d13403c8a2134da45f90}{%
+           family={Jiménez},
+           familyi={J\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61ad10c626e1d641e0b1d7b5f48d3233}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6b24b9d5915a43c0c14c3edff2a9cd37}
+      \strng{fullhash}{6b24b9d5915a43c0c14c3edff2a9cd37}
+      \strng{fullhashraw}{6b24b9d5915a43c0c14c3edff2a9cd37}
+      \strng{bibnamehash}{6b24b9d5915a43c0c14c3edff2a9cd37}
+      \strng{authorbibnamehash}{6b24b9d5915a43c0c14c3edff2a9cd37}
+      \strng{authornamehash}{6b24b9d5915a43c0c14c3edff2a9cd37}
+      \strng{authorfullhash}{6b24b9d5915a43c0c14c3edff2a9cd37}
+      \strng{authorfullhashraw}{6b24b9d5915a43c0c14c3edff2a9cd37}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physics of the Earth and Planetary Interiors}
+      \field{title}{Numerical modelling of the 1996 Chimbote-Peru tsunami earthquake (Mw 7.5)}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1016/j.pepi.2024.107154
+      \endverb
+    \endentry
+    \entry{kuchinski2025regional}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=98be0a97f997df8ea2f0316a8857cac3}{%
+           family={Kuchinski},
+           familyi={K\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3609187d3b0c4d111dfc6cfb3a349117}{%
+           family={Cauduro\bibnamedelimb Dias\bibnamedelimb de\bibnamedelima Paiva},
+           familyi={C\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0583701cef7189f09436976f7701b2aa}
+      \strng{fullhash}{0583701cef7189f09436976f7701b2aa}
+      \strng{fullhashraw}{0583701cef7189f09436976f7701b2aa}
+      \strng{bibnamehash}{0583701cef7189f09436976f7701b2aa}
+      \strng{authorbibnamehash}{0583701cef7189f09436976f7701b2aa}
+      \strng{authornamehash}{0583701cef7189f09436976f7701b2aa}
+      \strng{authorfullhash}{0583701cef7189f09436976f7701b2aa}
+      \strng{authorfullhashraw}{0583701cef7189f09436976f7701b2aa}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hydrological Sciences Journal}
+      \field{title}{Regional-scale flood mapping using naive Bayes and remote sensing: towards local relevance}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1080/02626667.2025.2506749
+      \endverb
+    \endentry
+    \entry{la2025modelizaci}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d79afdbd64818a09b654891f5bc0c7c7}{%
+           family={La\bibnamedelima Macchia},
+           familyi={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={María\bibnamedelima Lorena},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d79afdbd64818a09b654891f5bc0c7c7}
+      \strng{fullhash}{d79afdbd64818a09b654891f5bc0c7c7}
+      \strng{fullhashraw}{d79afdbd64818a09b654891f5bc0c7c7}
+      \strng{bibnamehash}{d79afdbd64818a09b654891f5bc0c7c7}
+      \strng{authorbibnamehash}{d79afdbd64818a09b654891f5bc0c7c7}
+      \strng{authornamehash}{d79afdbd64818a09b654891f5bc0c7c7}
+      \strng{authorfullhash}{d79afdbd64818a09b654891f5bc0c7c7}
+      \strng{authorfullhashraw}{d79afdbd64818a09b654891f5bc0c7c7}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista cartográfica}
+      \field{title}{Modelización hidrodinámica bidimensional y riesgo de inundaciones en la cuenca urbana de la ciudad de Tandil, Buenos Aires, Argentina}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb http://www.scielo.org.mx/scielo.php?script=sci_arttext\&pid=S2663-39812025000100079\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://www.scielo.org.mx/scielo.php?script=sci_arttext%5C&pid=S2663-39812025000100079%5C&lang=es
+      \endverb
+    \endentry
+    \entry{lemus2024modelaci}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8164dd3e1a61b7bbe07a2459d685db26}{%
+           family={Lemus},
+           familyi={L\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f008f701413cfaee25cfe9010586ef9}{%
+           family={Rodríguez},
+           familyi={R\bibinitperiod},
+           given={Jaime},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d9bb54e27e570bde197660eb357cca4}{%
+           family={Cáceres},
+           familyi={C\bibinitperiod},
+           given={Vicente},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d48e9b242a23c6f2c1d85b806f6ea22b}{%
+           family={Mery},
+           familyi={M\bibinitperiod},
+           given={Diego},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{71fce2c0a1cbb5f7a19af9235fc72473}
+      \strng{fullhash}{6e4f39db51d3d201bc5e6de11103040a}
+      \strng{fullhashraw}{6e4f39db51d3d201bc5e6de11103040a}
+      \strng{bibnamehash}{6e4f39db51d3d201bc5e6de11103040a}
+      \strng{authorbibnamehash}{6e4f39db51d3d201bc5e6de11103040a}
+      \strng{authornamehash}{71fce2c0a1cbb5f7a19af9235fc72473}
+      \strng{authorfullhash}{6e4f39db51d3d201bc5e6de11103040a}
+      \strng{authorfullhashraw}{6e4f39db51d3d201bc5e6de11103040a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Obras y proyectos}
+      \field{title}{Modelación computacional de deslizamientos de tierra masivos inducidos por sismos usando el Método del Punto Material}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb http://www.scielo.cl/scielo.php?script=sci_arttext\&pid=S0718-28132024000100104\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://www.scielo.cl/scielo.php?script=sci_arttext%5C&pid=S0718-28132024000100104%5C&lang=es
+      \endverb
+    \endentry
+    \entry{lengonzlez2022curso}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3afe9a2200faa0824610d3847051b67d}{%
+           family={León\bibnamedelima González},
+           familyi={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Leticia},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b7529665fd5ed4638f78141f66e7c2ab}{%
+           family={Arteaga\bibnamedelima García},
+           familyi={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Susana\bibnamedelima Rufiana},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4b755831202a997df9dfa1ce68496dc}{%
+           family={Hernández\bibnamedelima Cedeño},
+           familyi={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Reina\bibnamedelima Ysabel},
+           giveni={R\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e54f7d5626f358b07fca954a045b437c}{%
+           family={Molina\bibnamedelima Gómez},
+           familyi={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Ana\bibnamedelima María},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2c429df60b1ebd9adb93a7d2a4ed4803}
+      \strng{fullhash}{750a442a2a7e47b01ecfddaa83d720e0}
+      \strng{fullhashraw}{750a442a2a7e47b01ecfddaa83d720e0}
+      \strng{bibnamehash}{750a442a2a7e47b01ecfddaa83d720e0}
+      \strng{authorbibnamehash}{750a442a2a7e47b01ecfddaa83d720e0}
+      \strng{authornamehash}{2c429df60b1ebd9adb93a7d2a4ed4803}
+      \strng{authorfullhash}{750a442a2a7e47b01ecfddaa83d720e0}
+      \strng{authorfullhashraw}{750a442a2a7e47b01ecfddaa83d720e0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MediSur}
+      \field{title}{Curso de superación en gestión de riesgo frente a desastres naturales para los docentes de ciencias médicas}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb http://scielo.sld.cu/scielo.php?script=sci_arttext\&pid=S1727-897X2022000100087\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://scielo.sld.cu/scielo.php?script=sci_arttext%5C&pid=S1727-897X2022000100087%5C&lang=es
+      \endverb
+    \endentry
+    \entry{lpezsilva2025spatial}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=8360ee9f1faca8955945fd0f078a37bf}{%
+           family={López\bibnamedelima Silva},
+           familyi={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Maiquel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f12b7112babb9f43285176063959e6f5}{%
+           family={Carmenates\bibnamedelima Hernández},
+           familyi={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Dayma},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ced582f6209c941f9544f3455501a81d}{%
+           family={Ferrari\bibnamedelima Lavalle},
+           familyi={F\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Vanessa\bibnamedelima Lisbeth},
+           giveni={V\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=856bec99fefe8928d3e77df9e628c325}{%
+           family={Bravo\bibnamedelima Zapata},
+           familyi={B\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={David\bibnamedelima Humberto},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34a0c57fd202e1fcdbd3782d6dea89a0}{%
+           family={Brown\bibnamedelima Manrique},
+           familyi={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Oscar},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{69d87233b031a704e3dee237fc40fce2}
+      \strng{fullhash}{9e48c2fe993f844aa16b1a27e9bc6da0}
+      \strng{fullhashraw}{9e48c2fe993f844aa16b1a27e9bc6da0}
+      \strng{bibnamehash}{9e48c2fe993f844aa16b1a27e9bc6da0}
+      \strng{authorbibnamehash}{9e48c2fe993f844aa16b1a27e9bc6da0}
+      \strng{authornamehash}{69d87233b031a704e3dee237fc40fce2}
+      \strng{authorfullhash}{9e48c2fe993f844aa16b1a27e9bc6da0}
+      \strng{authorfullhashraw}{9e48c2fe993f844aa16b1a27e9bc6da0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Ciencias Técnicas Agropecuarias}
+      \field{title}{Spatial Limit of Agricultural risk and its Economic Impact Due to Flooding in the Chillon River, Peru}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb http://scielo.sld.cu/scielo.php?script=sci_arttext\&pid=S2071-00542025000100013\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://scielo.sld.cu/scielo.php?script=sci_arttext%5C&pid=S2071-00542025000100013%5C&lang=es
+      \endverb
+    \endentry
+    \entry{marin2021assessing}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=6f75bacee0b7c129c28b1547bc41ae1a}{%
+           family={Marin},
+           familyi={M\bibinitperiod},
+           given={R.J.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec1c7482790425a1e05e8f6cb9157eec}{%
+           family={Velásquez},
+           familyi={V\bibinitperiod},
+           given={M.F.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a4a8733415997b7941f8a65b3eb63ce}{%
+           family={García},
+           familyi={G\bibinitperiod},
+           given={E.F.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3bc35bd0a46f9b20e9e8f6e968043073}{%
+           family={Alvioli},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8fb9eb871a13326f1652525a783ef73}{%
+           family={Aristizábal},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0f0206b938994171fa534d93ff8aa098}
+      \strng{fullhash}{bb92b325317de9650097cd0aa93f021e}
+      \strng{fullhashraw}{bb92b325317de9650097cd0aa93f021e}
+      \strng{bibnamehash}{bb92b325317de9650097cd0aa93f021e}
+      \strng{authorbibnamehash}{bb92b325317de9650097cd0aa93f021e}
+      \strng{authornamehash}{0f0206b938994171fa534d93ff8aa098}
+      \strng{authorfullhash}{bb92b325317de9650097cd0aa93f021e}
+      \strng{authorfullhashraw}{bb92b325317de9650097cd0aa93f021e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Catena}
+      \field{title}{Assessing two methods of defining rainfall intensity and duration thresholds for shallow landslides in data-scarce catchments of the Colombian Andean Mountains}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1016/j.catena.2021.105563
+      \endverb
+    \endentry
+    \entry{meyrat2024simulating}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=23a873996e8812d38ff314526b2fc610}{%
+           family={Meyrat},
+           familyi={M\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=434cbd7f99b3e56ddbb9537a248b5c3c}{%
+           family={Munch},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea129e31c77ee128ce8910e963bed0f1}{%
+           family={Cicoira},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7efb743e5d335c6504022e2812112a1}{%
+           family={McArdell},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=648980ed7893da3819664482ebae49e5}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={C.R.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a8305e953835de31aa07f3ae63b2e98}{%
+           family={Frey},
+           familyi={F\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93c4465993501c8bd64112b01c0c7541}{%
+           family={Bartelt},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{80a9457b02f4f125654d04b719a40394}
+      \strng{fullhash}{c29b463bdf339f74431397b67b2792f4}
+      \strng{fullhashraw}{c29b463bdf339f74431397b67b2792f4}
+      \strng{bibnamehash}{c29b463bdf339f74431397b67b2792f4}
+      \strng{authorbibnamehash}{c29b463bdf339f74431397b67b2792f4}
+      \strng{authornamehash}{80a9457b02f4f125654d04b719a40394}
+      \strng{authorfullhash}{c29b463bdf339f74431397b67b2792f4}
+      \strng{authorfullhashraw}{c29b463bdf339f74431397b67b2792f4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Landslides}
+      \field{title}{Simulating glacier lake outburst floods (GLOFs) with a two-phase/layer debris flow model considering fluid-solid flow transitions}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1007/s10346-023-02157-w
+      \endverb
+    \endentry
+    \entry{moreno2025tsunami}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6fdeabda0e882a31cbe81ec4291f92ea}{%
+           family={Moreno},
+           familyi={M\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d158caa8fc67d13403c8a2134da45f90}{%
+           family={Jiménez},
+           familyi={J\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=208ff07a4ec9ce13e664758e1c25c421}{%
+           family={Villegas-Lanza},
+           familyi={V\bibinithyphendelim L\bibinitperiod},
+           given={J.C.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d10e54c41a18aebbe88c6f639823fe14}
+      \strng{fullhash}{a0f7461229d7e2377cf9af098aac9883}
+      \strng{fullhashraw}{a0f7461229d7e2377cf9af098aac9883}
+      \strng{bibnamehash}{a0f7461229d7e2377cf9af098aac9883}
+      \strng{authorbibnamehash}{a0f7461229d7e2377cf9af098aac9883}
+      \strng{authornamehash}{d10e54c41a18aebbe88c6f639823fe14}
+      \strng{authorfullhash}{a0f7461229d7e2377cf9af098aac9883}
+      \strng{authorfullhashraw}{a0f7461229d7e2377cf9af098aac9883}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Earthquake and Tsunami}
+      \field{title}{Tsunami Numerical Modeling and Static Stress Transfer of the 1960 Northern Peru Earthquake (Mw 7.6)}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1142/s1793431124500404
+      \endverb
+    \endentry
+    \entry{ochoacornejo2025rock}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=dcf84b8b5808e9be91b58757ba5efdeb}{%
+           family={Ochoa-Cornejo},
+           familyi={O\bibinithyphendelim C\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb5eff963b12ba69472319f104cbada2}{%
+           family={Palma},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f553b09a372ec62baafa9a12f468720a}{%
+           family={Sepúlveda},
+           familyi={S\bibinitperiod},
+           given={S.A.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b354a59d18dcfc1b6a8463a9cd9ef200}{%
+           family={Lara},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9949ef16308b9063543c2cd69373e61}{%
+           family={Burgos},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c708210cce23cea9df8f7df5d698772e}{%
+           family={Duhart},
+           familyi={D\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c65285a804e2c281c2184763dccafeb}
+      \strng{fullhash}{f2a8c69c301fa47f72267847499fee1a}
+      \strng{fullhashraw}{f2a8c69c301fa47f72267847499fee1a}
+      \strng{bibnamehash}{f2a8c69c301fa47f72267847499fee1a}
+      \strng{authorbibnamehash}{f2a8c69c301fa47f72267847499fee1a}
+      \strng{authornamehash}{9c65285a804e2c281c2184763dccafeb}
+      \strng{authorfullhash}{f2a8c69c301fa47f72267847499fee1a}
+      \strng{authorfullhashraw}{f2a8c69c301fa47f72267847499fee1a}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Landslides}
+      \field{title}{Rock slides in paraglacial environments in South America: three-dimensional modeling of glacier retreat and landslide inducing the 2017 Santa Lucía disaster in the Chilean Patagonia}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1007/s10346-024-02419-1
+      \endverb
+    \endentry
+    \entry{quesquen2025tsunami}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=f1711422627312fd2d36d1562cf55af8}{%
+           family={Quesquen},
+           familyi={Q\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a9664d3cf7c542d08bea64a8e1a08e9}{%
+           family={Estrada},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a0df15007c459adbf2d4fca56e97cb5}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b3440c817da5aa2927387439261ec9a}{%
+           family={Davila},
+           familyi={D\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9acd296043018b0a99bea6cfbb1c090}{%
+           family={Puchoc},
+           familyi={P\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0b7ca0fe1ec1bc8509d6b5d864690e5}{%
+           family={Koshimura},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1e5d8271d0e13124c8ce5dd2e09a88d4}
+      \strng{fullhash}{188e95e64c38bdaf5dce8263e4c0a304}
+      \strng{fullhashraw}{188e95e64c38bdaf5dce8263e4c0a304}
+      \strng{bibnamehash}{188e95e64c38bdaf5dce8263e4c0a304}
+      \strng{authorbibnamehash}{188e95e64c38bdaf5dce8263e4c0a304}
+      \strng{authornamehash}{1e5d8271d0e13124c8ce5dd2e09a88d4}
+      \strng{authorfullhash}{188e95e64c38bdaf5dce8263e4c0a304}
+      \strng{authorfullhashraw}{188e95e64c38bdaf5dce8263e4c0a304}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Disaster Research}
+      \field{title}{Tsunami Hazard and Exposure Assessment in Metropolitan Lima-Callao Under Historical and Plausible Seismic Scenarios}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.20965/jdr.2025.p0899
+      \endverb
+    \endentry
+    \entry{rojasguerrero2025lisis}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9ece11b90521ea8b887bbbaea4c69d56}{%
+           family={Rojas\bibnamedelima Guerrero},
+           familyi={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Darcy\bibnamedelima Xavier},
+           giveni={D\bibinitperiod\bibinitdelim X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=621d1282a35bc13780119aad8454566b}{%
+           family={García\bibnamedelima Fernández},
+           familyi={G\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Willman},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d17e4ddff2756d003fa59dbe0e34734}{%
+           family={Pizarro\bibnamedelima Muñoz},
+           familyi={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Claudia\bibnamedelima Lorena},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dbdc6e0308417cd15abac85f6621ef36}
+      \strng{fullhash}{d604bbfbb3187e417ea17cb12a25ead3}
+      \strng{fullhashraw}{d604bbfbb3187e417ea17cb12a25ead3}
+      \strng{bibnamehash}{d604bbfbb3187e417ea17cb12a25ead3}
+      \strng{authorbibnamehash}{d604bbfbb3187e417ea17cb12a25ead3}
+      \strng{authornamehash}{dbdc6e0308417cd15abac85f6621ef36}
+      \strng{authorfullhash}{d604bbfbb3187e417ea17cb12a25ead3}
+      \strng{authorfullhashraw}{d604bbfbb3187e417ea17cb12a25ead3}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Nova}
+      \field{title}{Análisis de las inundaciones mediante simulaciones Hidrológicas e Hidráulicas en el río Chorolque de Santiago de Cotagaita}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb http://www.scielo.org.bo/scielo.php?script=sci_arttext\&pid=S1683-07892025000200127\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://www.scielo.org.bo/scielo.php?script=sci_arttext%5C&pid=S1683-07892025000200127%5C&lang=es
+      \endverb
+    \endentry
+    \entry{saavedra2026impact}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=1,uniquepart=given,hash=39bc766e34e82fed2d9441d41bc61d14}{%
+           family={Saavedra},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=4cf1454cd766208a5f328a0f20c99ebf}{%
+           family={Siqueira},
+           familyi={S\bibinitperiod},
+           given={V.A.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=222225f260349d809a985147bd5137aa}{%
+           family={Brêda},
+           familyi={B\bibinitperiod},
+           given={J.P.L.F.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b7c8fb666f08dd311f78b569ee522df}{%
+           family={Millán-Arancibia},
+           familyi={M\bibinithyphendelim A\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49285a77d62e52e664b6020514675cea}{%
+           family={Lavado-Casimiro},
+           familyi={L\bibinithyphendelim C\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{632b8ef2624cc8878c62d4c589c29958}
+      \strng{fullhash}{8ad4a11726177d45334c1924453edbde}
+      \strng{fullhashraw}{8ad4a11726177d45334c1924453edbde}
+      \strng{bibnamehash}{8ad4a11726177d45334c1924453edbde}
+      \strng{authorbibnamehash}{8ad4a11726177d45334c1924453edbde}
+      \strng{authornamehash}{632b8ef2624cc8878c62d4c589c29958}
+      \strng{authorfullhash}{8ad4a11726177d45334c1924453edbde}
+      \strng{authorfullhashraw}{8ad4a11726177d45334c1924453edbde}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Water}
+      \field{title}{Impact of climate change on the magnitude and extent of riverine floods in a Peruvian Andean–Amazonian basin}
+      \field{year}{2026}
+      \verb{doi}
+      \verb 10.3389/frwa.2026.1709082
+      \endverb
+    \endentry
+    \entry{snchezpineda2025evaluaci}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=27323843ccd0bd42bf722d86264718b3}{%
+           family={Sánchez\bibnamedelima Pineda},
+           familyi={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Nancy\bibnamedelima Estela},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a67edeaa0d51543157a22fa585dc57db}{%
+           family={Garzón\bibnamedelima Barrero},
+           familyi={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Julián},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0d34afc18be3f0be350a37758f4fc58}{%
+           family={González\bibnamedelima Valencia},
+           familyi={G\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Juan\bibnamedelima Carlos},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{71ddf1be546f5593ae0f103a3743bbc7}
+      \strng{fullhash}{a3fa27b44c6c9e64b51456d5b6fcfde4}
+      \strng{fullhashraw}{a3fa27b44c6c9e64b51456d5b6fcfde4}
+      \strng{bibnamehash}{a3fa27b44c6c9e64b51456d5b6fcfde4}
+      \strng{authorbibnamehash}{a3fa27b44c6c9e64b51456d5b6fcfde4}
+      \strng{authornamehash}{71ddf1be546f5593ae0f103a3743bbc7}
+      \strng{authorfullhash}{a3fa27b44c6c9e64b51456d5b6fcfde4}
+      \strng{authorfullhashraw}{a3fa27b44c6c9e64b51456d5b6fcfde4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ciencia e Ingeniería Neogranadina}
+      \field{title}{Evaluación de escenarios de inundación mediante herramientas hidrodinámicas y geoespaciales: el caso de estudio del río Bugalagrande, Colombia}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb http://www.scielo.org.co/scielo.php?script=sci_arttext\&pid=S0124-81702025000200121\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://www.scielo.org.co/scielo.php?script=sci_arttext%5C&pid=S0124-81702025000200121%5C&lang=es
+      \endverb
+    \endentry
+    \entry{stuartsmith2021increased}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=cd880cea14b7759afe6632d9e0c72232}{%
+           family={Stuart-Smith},
+           familyi={S\bibinithyphendelim S\bibinitperiod},
+           given={R.F.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5e20f6b768bead75c41a740625566fc}{%
+           family={Roe},
+           familyi={R\bibinitperiod},
+           given={G.H.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ee6724aae227dcac2949962d898b300}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b2fccd5057757339504803f88d67fec}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={M.R.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{422a041f3fa877a4bfdde4408f050400}
+      \strng{fullhash}{bab031d73539f228956c121c205f47bd}
+      \strng{fullhashraw}{bab031d73539f228956c121c205f47bd}
+      \strng{bibnamehash}{bab031d73539f228956c121c205f47bd}
+      \strng{authorbibnamehash}{bab031d73539f228956c121c205f47bd}
+      \strng{authornamehash}{422a041f3fa877a4bfdde4408f050400}
+      \strng{authorfullhash}{bab031d73539f228956c121c205f47bd}
+      \strng{authorfullhashraw}{bab031d73539f228956c121c205f47bd}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Geoscience}
+      \field{title}{Increased outburst flood hazard from Lake Palcacocha due to human-induced glacier retreat}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1038/s41561-021-00686-4
+      \endverb
+    \endentry
+    \entry{varelaledesma2021tecnolog}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ddb47ed74f2a0a4d4cf5e98a305e0c14}{%
+           family={Varela-Ledesma},
+           familyi={V\bibinithyphendelim L\bibinitperiod},
+           given={Nélida},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7eb844bd4e2c8f6db0a80bdb79c90802}{%
+           family={Mulet-Deulofeu},
+           familyi={M\bibinithyphendelim D\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9beac11835ad695b06e63cedffca4b1a}{%
+           family={Rojas-Varela},
+           familyi={R\bibinithyphendelim V\bibinitperiod},
+           given={Lisabeth},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0b03cf80dab25d0cf8a08235ba8c017f}
+      \strng{fullhash}{661844e4ebbb6db9d31cd623e2196459}
+      \strng{fullhashraw}{661844e4ebbb6db9d31cd623e2196459}
+      \strng{bibnamehash}{661844e4ebbb6db9d31cd623e2196459}
+      \strng{authorbibnamehash}{661844e4ebbb6db9d31cd623e2196459}
+      \strng{authornamehash}{0b03cf80dab25d0cf8a08235ba8c017f}
+      \strng{authorfullhash}{661844e4ebbb6db9d31cd623e2196459}
+      \strng{authorfullhashraw}{661844e4ebbb6db9d31cd623e2196459}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ingeniería Industrial}
+      \field{title}{Tecnología de gestión del riesgo por sequía para la toma de decisiones}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb http://scielo.sld.cu/scielo.php?script=sci_arttext\&pid=S1815-59362021000100134\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://scielo.sld.cu/scielo.php?script=sci_arttext%5C&pid=S1815-59362021000100134%5C&lang=es
+      \endverb
+    \endentry
+    \entry{vilca2021glacial}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=4a289b7b9d17258bd2a23fad9948ed6c}{%
+           family={Vilca},
+           familyi={V\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=559054b38a3e094da1e48d5ec3bf24ae}{%
+           family={Mergili},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18f489bbdd0b4f9416555f099a14c88c}{%
+           family={Emmer},
+           familyi={E\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a8305e953835de31aa07f3ae63b2e98}{%
+           family={Frey},
+           familyi={F\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22259bedad6aa97a9ebe5f1f09dcd524}{%
+           family={Huggel},
+           familyi={H\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e31e0b196514c5c1360a80032ef1da68}
+      \strng{fullhash}{8f6220fb589b16c7387765a0a0eadf12}
+      \strng{fullhashraw}{8f6220fb589b16c7387765a0a0eadf12}
+      \strng{bibnamehash}{8f6220fb589b16c7387765a0a0eadf12}
+      \strng{authorbibnamehash}{8f6220fb589b16c7387765a0a0eadf12}
+      \strng{authornamehash}{e31e0b196514c5c1360a80032ef1da68}
+      \strng{authorfullhash}{8f6220fb589b16c7387765a0a0eadf12}
+      \strng{authorfullhashraw}{8f6220fb589b16c7387765a0a0eadf12}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Landslides}
+      \field{title}{The 2020 glacial lake outburst flood process chain at Lake Salkantaycocha (Cordillera Vilcabamba, Peru)}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1007/s10346-021-01670-0
+      \endverb
+    \endentry
+    \entry{yupanqui2025hybrid}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a97071113c5ce31f73b95995f61a5e5a}{%
+           family={Yupanqui},
+           familyi={Y\bibinitperiod},
+           given={P.R.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab8f72db04b5dddd05c47149d4c0ed05}{%
+           family={Orihuela},
+           familyi={O\bibinitperiod},
+           given={J.L.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d615f66714daf34192c8534ddd4c1c3}{%
+           family={Delgadillo},
+           familyi={D\bibinitperiod},
+           given={R.M.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2acc54008cc6377e889f60a8cb49d780}
+      \strng{fullhash}{8de7b1f7e825fe143514f8bf05071f70}
+      \strng{fullhashraw}{8de7b1f7e825fe143514f8bf05071f70}
+      \strng{bibnamehash}{8de7b1f7e825fe143514f8bf05071f70}
+      \strng{authorbibnamehash}{8de7b1f7e825fe143514f8bf05071f70}
+      \strng{authornamehash}{2acc54008cc6377e889f60a8cb49d780}
+      \strng{authorfullhash}{8de7b1f7e825fe143514f8bf05071f70}
+      \strng{authorfullhashraw}{8de7b1f7e825fe143514f8bf05071f70}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Infrastructures}
+      \field{title}{Hybrid AI–FEA Framework for Seismic Assessment of Confined Masonry Walls Using Crack Image-Based Material Property Inference}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.3390/infrastructures10120323
+      \endverb
+    \endentry
+    \entry{zamora2021evaluaci}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=6d1c8bba28dad8527e2b373eea0a4241}{%
+           family={Zamora},
+           familyi={Z\bibinitperiod},
+           given={Natalia},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5fc3f1603178b4e89b966a6b1ca41c84}{%
+           family={Arroyo-Solórzano},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff49eef5254877e87052957fcc13a5d2}{%
+           family={Porras},
+           familyi={P\bibinitperiod},
+           given={Hernán},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f3f6585b939ff987ef67e07e37872d5}{%
+           family={Chacón},
+           familyi={C\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=051e772998905f97f881c8a46d9f8116}{%
+           family={Rivera},
+           familyi={R\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4378260f20af236a27d41548ae423679}{%
+           family={Murillo},
+           familyi={M\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9253a3463163628f4bc5a3a746bd1dc4}
+      \strng{fullhash}{8fea6129ea5ff041ae8395dfdc8d09a3}
+      \strng{fullhashraw}{8fea6129ea5ff041ae8395dfdc8d09a3}
+      \strng{bibnamehash}{8fea6129ea5ff041ae8395dfdc8d09a3}
+      \strng{authorbibnamehash}{8fea6129ea5ff041ae8395dfdc8d09a3}
+      \strng{authornamehash}{9253a3463163628f4bc5a3a746bd1dc4}
+      \strng{authorfullhash}{8fea6129ea5ff041ae8395dfdc8d09a3}
+      \strng{authorfullhashraw}{8fea6129ea5ff041ae8395dfdc8d09a3}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Geológica de América Central}
+      \field{title}{Evaluación del potencial de tsunamis locales con base en análisis sismo-tectónico en el Caribe de Costa Rica}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb http://www.scielo.sa.cr/scielo.php?script=sci_arttext\&pid=S0256-70242021000200281\&lang=es
+      \endverb
+      \verb{url}
+      \verb http://www.scielo.sa.cr/scielo.php?script=sci_arttext%5C&pid=S0256-70242021000200281%5C&lang=es
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
