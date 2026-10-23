@@ -1,0 +1,294 @@
+% =====================================================================
+% RSL: Física computacional y gestión del riesgo de desastres
+% Curso: Organización y Métodos (UNSA, 2026-B) -- Mg. William Bornás Rios
+% Compilar:  pdflatex -> biber -> pdflatex -> pdflatex   (o: latexmk -pdf main)
+% Los marcadores \relleno{...} indican texto pendiente.
+% =====================================================================
+\documentclass[12pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx}  % Times, aceptado por APA 7
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[margin=2.54cm]{geometry}
+\usepackage{setspace}
+\usepackage{csquotes}          % antes de biblatex
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{caption}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage[hidelinks]{hyperref}
+
+% Evita que babel convierta las comillas ASCII de las consultas en atajos.
+\addto\captionsspanish{\renewcommand{\tablename}{Tabla}}
+
+% ---------- Bibliografía: APA 7 con biblatex-apa ----------
+\usepackage[style=apa,backend=biber,language=spanish]{biblatex}
+\DeclareLanguageMapping{spanish}{spanish-apa}
+\addbibresource{referencias.bib}
+\AtBeginBibliography{\sloppy}
+
+% ---------- Formato APA 7 (documento estudiantil) ----------
+\onehalfspacing                % interlineado 1.5
+\setlength{\parindent}{1.27cm} % sangría de 0.5 in
+\setlength{\parskip}{0pt}
+\setlength{\emergencystretch}{3em}
+\setlist{nosep}
+\captionsetup{font=small,labelfont=bf,justification=raggedright,singlelinecheck=false}
+
+\setlength{\headheight}{14.5pt}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+
+% Encabezados de nivel 1-3 al estilo APA 7
+\usepackage{titlesec}
+\titleformat{\section}{\normalfont\normalsize\bfseries\centering}{}{0pt}{}
+\titleformat{\subsection}{\normalfont\normalsize\bfseries}{}{0pt}{}
+\titleformat{\subsubsection}{\normalfont\normalsize\bfseries\itshape}{}{0pt}{}
+\titlespacing*{\section}{0pt}{0pt}{0pt}
+\titlespacing*{\subsection}{0pt}{0pt}{0pt}
+\titlespacing*{\subsubsection}{0pt}{0pt}{0pt}
+
+% Marcador de texto pendiente
+\newcommand{\relleno}[1]{\textcolor{red}{[#1]}}
+
+% Título y metadatos (usados en portada.tex)
+\newcommand{\titulo}{Física computacional y gestión del riesgo de desastres en el Perú y Latinoamérica: aplicaciones, brechas de acceso y limitaciones}
+\newcommand{\autor}{\relleno{Nombre y apellidos}}
+\newcommand{\correo}{ccapatinta@unsa.edu.pe}
+
+\begin{document}
+
+% ---------- 1) Título y 2) integrantes con e-mails ----------
+\hypersetup{pageanchor=false}
+\input{portada}
+\hypersetup{pageanchor=true}
+
+% ---------- 3) Resumen (mín. 250 palabras) y 4) Palabras clave ----------
+\newpage
+\begin{center}\textbf{Resumen}\end{center}
+\noindent\relleno{Resumen de mínimo 250 palabras: contexto, objetivo, método (bases, query, criterios, número de registros), hallazgos por RQ y conclusión principal. Sin citas.}
+
+\vspace{0.5\baselineskip}
+\noindent\textbf{\textit{Palabras clave:}} \textit{\relleno{física computacional, simulación numérica, gestión del riesgo de desastres, responsabilidad social, Perú, Latinoamérica}}
+
+\vspace{1\baselineskip}
+\begin{center}\textbf{Abstract}\end{center}
+\noindent\relleno{Opcional: versión en inglés del resumen.}
+
+\vspace{0.5\baselineskip}
+\noindent\textbf{\textit{Keywords:}} \textit{\relleno{computational physics, numerical simulation, disaster risk management, social responsibility, Peru, Latin America}}
+
+% ---------- 5) Introducción (aprox. 8 párrafos medianos) ----------
+\newpage
+\begin{center}\textbf{\titulo}\end{center}
+\section{Introducción}
+\relleno{P1. Contexto: desastres naturales y de origen humano en el Perú y Latinoamérica.}
+
+\relleno{P2. Física computacional: qué es y por qué importa para la gestión del riesgo.}
+
+\relleno{P3. Responsabilidad social: impacto de la tecnología y bien común (deber social).}
+
+\relleno{P4. Brechas de acceso, capacitación y comunicación en poblaciones vulnerables.}
+
+\relleno{P5. Conexión con Organización y Métodos: cómo las organizaciones públicas y privadas coordinan procesos, roles y decisiones para gestionar el riesgo.}
+
+\relleno{P6. Justificación y vacío en la literatura.}
+
+\relleno{P7. Objetivo y objeto de estudio.}
+
+\relleno{P8. Preguntas de investigación (RQ1--RQ3) y estructura del artículo.}
+
+% ---------- 6) Background (máx. 2 páginas, imagen obligatoria) ----------
+\section{Marco conceptual (\textit{background})}
+\relleno{Conceptos básicos: física computacional, simulación numérica, modelación hidrodinámica, HPC, aprendizaje automático informado por la física, gestión del riesgo de desastres, responsabilidad social. Máximo 2 páginas.}
+
+\begin{figure}[ht]
+  \centering
+  % \includegraphics[width=0.8\textwidth]{figuras/background.png}
+  \fbox{\parbox{0.8\textwidth}{\centering\relleno{Imagen obligatoria del background}}}
+  \caption{\relleno{Título de la figura}}
+  \label{fig:background}
+  \par\smallskip\noindent\small\textit{Nota.} \relleno{Fuente o adaptación de la figura, con cita.}
+\end{figure}
+
+% ---------- 7) Revisión sistemática ----------
+\section{Revisión sistemática}
+
+\subsection{Preguntas de investigación}
+\begin{itemize}
+  \item \textbf{RQ1 (aplicaciones):} ¿Qué técnicas de física computacional (simulación, modelado, HPC, aprendizaje automático informado por la física) se han aplicado a la prevención de desastres naturales en el Perú y Latinoamérica?
+  \item \textbf{RQ2 (acceso y alcance):} ¿Qué barreras de acceso, capacitación y comunicación enfrentan las poblaciones vulnerables para beneficiarse de estas herramientas?
+  \item \textbf{RQ3 (actores y proyección):} ¿Qué instituciones, organizaciones y programas formativos impulsan estas aplicaciones, y qué perspectivas de desarrollo se reportan?
+\end{itemize}
+
+\subsection{Estrategia de búsqueda}
+Se buscaron artículos y revisiones revisados por pares, publicados entre 2021 y 2026, en español o inglés, en dos bases de datos: Scopus y SciELO. La búsqueda se realizó el 22 de octubre de 2026. En Scopus se usó la siguiente consulta en TITLE-ABS-KEY:
+En SciELO se aplicó la consulta que aparece en la Tabla~\ref{tab:queries}, con filtros de idioma (español e inglés), años y colecciones disponibles con resultados (no hubo colección de Perú).
+
+\begin{table}[ht]
+  \centering
+  \caption{Cadenas de búsqueda utilizadas}
+  \label{tab:queries}
+  \begin{tabularx}{\textwidth}{@{}p{2.1cm}>{\raggedright\arraybackslash\ttfamily\small}X>{\centering\arraybackslash}p{1.1cm}@{}}
+    \toprule
+    Base & Cadena de búsqueda & N \\
+    \midrule
+    Scopus & TITLE-ABS-KEY ( ( "numerical simulation" OR "numerical model" OR "numerical modeling" OR "computational model" OR "hydrodynamic model" OR "physics-informed" OR "high-performance computing" ) AND ( "disaster risk" OR flood OR floods OR landslide OR earthquake OR "early warning" ) AND ( peru OR "latin america" OR andean OR "south america" ) ) AND PUBYEAR > 2020 AND DOCTYPE ( ar OR re ) & 86 \\
+    SciELO & (simulación OR modelación OR "modelo numérico" OR "modelo hidrodinámico" OR "modelo hidráulico") AND (desastres OR inundaciones OR sismos OR deslizamientos OR "gestión del riesgo") & 34 \\
+    \bottomrule
+  \end{tabularx}
+  \par\smallskip\noindent\small\textit{Nota.} Filtros: años 2021--2026; tipos de documento: artículos y revisiones; idiomas: español e inglés. En SciELO no hubo colección de Perú disponible; los 34 registros provienen de otras colecciones latinoamericanas. Las exportaciones de SciELO no incluyen resumen ni DOI.
+\end{table}
+
+\subsection{Criterios de inclusión y exclusión}
+Se aplicó una regla única y estricta a los 120 registros únicos:
+
+\textbf{Incluir para RQ1} solo si el registro cumple \textit{las tres condiciones}:
+\begin{itemize}
+  \item Usa una técnica de física computacional (simulación numérica, modelación hidrodinámica o hidráulica, HPC, aprendizaje automático físico-informado o similar).
+  \item Se aplica a un desastre o a la gestión del riesgo (inundación, sismo, tsunami, deslizamiento, GLOF, alerta temprana).
+  \item El contexto geográfico es Perú o Latinoamérica.
+\end{itemize}
+
+\textbf{Incluir para RQ2 o RQ3} si trata de acceso, capacitación, comunicación, instituciones, políticas o proyección en gestión del riesgo en Perú o Latinoamérica, aunque no use simulación (p. ej., programas formativos en gestión de riesgo).
+
+\textbf{Excluir} si:
+\begin{itemize}
+  \item El desastre es solo pretexto y el tema real es otro (ingeniería estructural, geofísica teórica, hidrogeología, riesgo financiero, salud pública, fisiología, especies invasoras, minería, urbanismo/diseño sin técnica computacional, morfometría de cuencas sin modelación computacional).
+  \item Es ingeniería estructural o sísmica sin enfoque de gestión del riesgo (muros de tierra apisonada, muros de acero, albañilería confinada, edificios con amortiguadores, muros RC esbeltos, conexiones viga-columna, cimentaciones).
+  \item No hay relación con riesgo de desastres naturales.
+  \item Fuera de rango temporal (2027) o fuera de contexto geográfico (Tonga, Chatham Island, África, SE Asia, regiones extra-tropicales, global).
+\end{itemize}
+
+\textbf{Dudoso} cuando el título o resumen no bastan para decidir; 3 registros de SciELO y 13 de Scopus quedaron en esta categoría. Los casos límite se documentan en el Anexo~A.
+
+\begin{table}[ht]
+  \centering
+  \caption{Flujo de selección de estudios (PRISMA)}
+  \label{tab:flujo}
+  \small
+  \begin{tabularx}{\textwidth}{@{}>{\raggedright\arraybackslash}X>{\centering\arraybackslash}p{1.25cm}>{\centering\arraybackslash}p{1.25cm}>{\centering\arraybackslash}p{1.25cm}@{}}
+    \toprule
+    Etapa & Scopus & SciELO & Total \\
+    \midrule
+    Registros identificados & 86 & 34 & 120 \\
+    Duplicados eliminados & 0 & 0 & 0 \\
+    Cribados por título y resumen & 86 & 34 & 120 \\
+    Excluidos en el cribado & 26 & 9 & 35 \\
+    \quad\quad Ingeniería estructural sin enfoque GRD & 9 & 1 & 10 \\
+    \quad\quad Geofísica/geodinámica teórica sin aplicación GRD & 5 & 0 & 5 \\
+    \quad\quad Fuera de contexto geográfico & 5 & 0 & 5 \\
+    \quad\quad Otro tema (salud, financiero, fisiología, minería, especies) & 4 & 3 & 7 \\
+    \quad\quad Fuera de rango temporal (2027) & 1 & 0 & 1 \\
+    \quad\quad Hidrología/hidrogeología sin aplicación GRD & 2 & 0 & 2 \\
+    \quad\quad Urbanismo/diseño sin técnica computacional & 0 & 3 & 3 \\
+    \quad\quad Morfometría cuencas sin modelación computacional & 0 & 2 & 2 \\
+    Candidatos a texto completo (incluir) & 47 & 22 & 69 \\
+    Dudosos (requieren verificación a texto completo) & 13 & 3 & 16 \\
+    Evaluados a texto completo & 0 & 0 & 0 \\
+    Incluidos en la síntesis final & 0 & 0 & 0 \\
+    \bottomrule
+  \end{tabularx}
+  \par\smallskip\noindent\small\textit{Nota.} La lectura a texto completo aún no se ha ejecutado; por eso las dos últimas etapas permanecen en cero y no representan una síntesis definitiva.
+\end{table}
+
+La priorización para la lectura a texto completo (14 artículos principales y 5 suplentes) se basa en: (1) relevancia directa a cada RQ, (2) variedad de tipos de desastre, (3) presencia de casos de estudio en Perú (mínimo 3), (4) al menos 3 registros de SciELO y (5) diversidad de técnicas. La propuesta detallada consta en la hoja ``Propuesta lectura'' del archivo de datos.
+
+\subsection{Metodología}
+La revisión sistemática sigue las directrices PRISMA 2020 adaptadas a revisiones de literatura en ingeniería. El protocolo se describe a continuación.
+
+\subsubsection{Identificación de estudios}
+Las búsquedas se ejecutaron el 22 de octubre de 2026 en Scopus y SciELO (ver Tabla~\ref{tab:queries}). El rango temporal fue 2021--2026; se limitó a artículos y revisiones revisados por pares en español e inglés.
+
+\subsubsection{Selección de estudios}
+Se siguió un flujo tipo PRISMA: registros identificados $\rightarrow$ eliminación de duplicados $\rightarrow$ cribado por título y resumen $\rightarrow$ candidatos a texto completo (incluir) $\rightarrow$ evaluación a texto completo $\rightarrow$ síntesis final. Los 120 registros únicos se distribuyeron en 69 incluir, 35 excluir y 16 dudoso: Scopus aportó 47 incluir, 26 excluir y 13 dudoso; SciELO aportó 22 incluir, 9 excluir y 3 dudoso (ver Tabla~\ref{tab:flujo}). Los registros exportados se fusionaron y deduplicaron con un script en Python (\texttt{merge\_dedup.py}) que compara DOI normalizado, título normalizado (minúsculas, sin tildes ni signos) y similitud de cadenas ($\ge$ 0,90). No se hallaron duplicados; la máxima similitud inter-bases fue 0,49. Un registro de Scopus (año 2027) se excluyó por estar fuera del rango. Los 34 registros de SciELO carecen de resumen en la exportación, por lo que la decisión se basó solo en el título.
+
+\subsubsection{Extracción de datos}
+Para los 85 registros incluidos o dudosos se creó una hoja de extracción con columnas: referencia APA, país/región, tipo de desastre, técnica de física computacional, resultado principal, población/actores, barreras de acceso/capacitación, institución que lo impulsa, perspectivas, limitaciones y calidad. En esta etapa preliminar solo se completaron los campos que constan en título o resumen; el resto queda pendiente de lectura a texto completo.
+
+\subsubsection{Análisis y síntesis}
+El análisis se organiza por pregunta de investigación (RQ1--RQ3). En esta versión preliminar, la síntesis se basa exclusivamente en títulos y resúmenes; las conclusiones definitivas requerirán la lectura a texto completo de una muestra representativa (10--15 artículos).
+
+\subsection{Análisis por pregunta de investigación}
+\subsubsection{RQ1: aplicaciones}
+\label{sec:rq1}
+\paragraph*{Análisis preliminar (basado en títulos y resúmenes).}
+La literatura identificada muestra una diversidad de técnicas de física computacional aplicadas a la gestión del riesgo de desastres en Perú y Latinoamérica. Predominan la simulación numérica de tsunamis \parencite{jimnez2023numerical, androsov2024nonlinear, davila2025probabilistic, garcia2025parallel}, el modelado hidrodinámico e hidráulico de inundaciones \parencite{fagundes2021sediment, fleischmann2021regional, escobarsilva2023assessing, saavedra2026impact}, el modelado de deslizamientos y flujos de escombros \parencite{marin2021assessing, ochoacornejo2025rock, meyrat2024simulating, flores2026numerical}, y la modelación de fuentes sísmicas mediante inversión de formas de onda \parencite{moreno2025tsunami, jimenez2024numerical, jimenez2025numerical, jimnez2023seismic, jiang2023estimation}. 
+
+Se identifican aplicaciones de computación de alto rendimiento (HPC) para evaluación rápida de peligro de tsunami y exposición poblacional en Perú \parencite{garcia2025parallel}. En aprendizaje automático informado por la física, destaca el marco híbrido IA--elementos finitos para evaluación sísmica de mampostería confinada \parencite{yupanqui2025hybrid}. En Sudamérica, el uso de \textit{naive Bayes} y teledetección para mapeo de inundaciones a escala regional \parencite{kuchinski2025regional} apunta a perspectivas de operacionalización y transferencia. 
+
+Desde SciELO, los títulos informan evaluaciones de escenarios de inundación con herramientas hidrodinámicas y geoespaciales, simulaciones hidrológicas e hidráulicas, modelación hidrodinámica bidimensional y modelación hidráulica en Iber \parencite{snchezpineda2025evaluaci, rojasguerrero2025lisis, la2025modelizaci, gutirrezgarca2022modelaci}. También aparecen modelación computacional de deslizamientos mediante el Método del Punto Material, análisis probabilístico de estabilidad de taludes y evaluación del potencial de tsunamis mediante análisis sismotectónico \parencite{lemus2024modelaci, ariasvalencia2024lisis, zamora2021evaluaci}. \textit{Nota: los registros de SciELO carecen de resumen en la exportación; estas atribuciones se basan solo en los títulos.}
+
+\subsubsection{RQ2: acceso y alcance}
+\label{sec:rq2}
+\paragraph*{Análisis preliminar (basado en títulos y resúmenes).}
+La evidencia directa sobre barreras de acceso, capacitación y comunicación en poblaciones vulnerables es escasa. Algunos registros sí documentan exposición o alcance: la evaluación de peligro y exposición en Lima-Callao \parencite{quesquen2025tsunami, androsov2024nonlinear, garcia2025parallel} considera áreas densamente pobladas; los estudios de Palcacocha y Salkantaycocha \parencite{stuartsmith2021increased, vilca2021glacial} describen amenazas en ciudades o sistemas andinos; el registro del río Chillón aborda el límite espacial del riesgo agrícola y su impacto económico \parencite{lpezsilva2025spatial}; y otros trabajos señalan cuencas con escasez de datos o la relevancia local del mapeo \parencite{marin2021assessing, kuchinski2025regional}. Estas señales no permiten afirmar todavía la existencia de barreras de capacitación, alfabetización digital, comunicación de alertas o gobernanza de datos.
+
+\subsubsection{RQ3: actores y proyección}
+\label{sec:rq3}
+\paragraph*{Análisis preliminar (basado en títulos y resúmenes).}
+La evidencia institucional debe limitarse a lo que aparece literalmente en los registros citados. El resumen de Garcia et al. menciona que TUNAMI-N2 fue creado en Tohoku University; los resúmenes de Escobar-Silva et al. y Flores et al. mencionan HEC-RAS. En los títulos, un curso cubano aborda la formación docente en gestión de riesgo y otro registro describe una tecnología de gestión de sequía para la toma de decisiones \parencite{garcia2025parallel, escobarsilva2023assessing, flores2026numerical, lengonzlez2022curso, varelaledesma2021tecnolog}. No se atribuye liderazgo al IGP ni a otras instituciones no mencionadas literalmente en los campos disponibles. Se requiere lectura a texto completo para caracterizar programas formativos y proyecciones institucionales.
+
+% ---------- 8) Limitaciones y consideraciones ----------
+\section{Limitaciones y consideraciones}
+Esta revisión presenta las siguientes limitaciones, derivadas del proceso metodológico real:
+\begin{itemize}
+  \item \textbf{Cobertura de bases:} Solo se buscaron Scopus y SciELO; no se incluyeron Web of Science, IEEE Xplore, Redalyc, Dialnet, repositorios institucionales ni literatura gris (informes técnicos, tesis, actas de congresos no indexados).
+  \item \textbf{SciELO sin colección Perú:} Al momento de la búsqueda, SciELO no disponía de colección de Perú; los 34 registros provienen de colecciones de Argentina, Bolivia, Brasil, Chile, Colombia, Costa Rica, Cuba, México y España, lo que reduce la representatividad peruana.
+  \item \textbf{Exportaciones SciELO sin metadatos completos:} Los 34 registros de SciELO no incluyen resumen ni DOI en la exportación; el cribado se basó solo en título, marcándose 3 como ``dudoso'' y 22 como ``incluir''; esto puede introducir sesgo de inclusión.
+  \item \textbf{Exclusión de portugués:} No se incluyeron publicaciones en portugués (relevante para Brasil), limitando la cobertura de la mayor potencia científica de la región.
+  \item \textbf{Solo literatura revisada por pares:} Se excluyeron informes técnicos, tesis, documentos de trabajo y guías operativas que pueden contener aplicaciones prácticas relevantes.
+  \item \textbf{Rango temporal 2021--2026:} Estudios previos a 2021 (ej. modelado clásico de tsunamis, GLOFs, sismicidad histórica) quedan fuera, aunque siguen siendo referencias base.
+  \item \textbf{Sesgo de palabras clave:} Las consultas privilegian términos en inglés (Scopus) y español (SciELO) vinculados a ``simulación'', ``modelado'', ``hidrodinámico''; pueden omitir estudios que usen terminología distinta (ej. ``análisis numérico'', ``computación científica'', ``gemelo digital'').
+  \item \textbf{Análisis preliminar:} La síntesis por RQ se basa únicamente en títulos y resúmenes; los hallazgos son preliminares y requieren validación a texto completo.
+  \item \textbf{Deduplicación limitada:} El criterio de similitud $\ge$ 0,90 en títulos normalizados puede no detectar duplicados con títulos muy distintos pero mismo contenido (ej. versión extendida de congreso vs. artículo de revista).
+  \item \textbf{Un revisor único:} El cribado y la extracción los realizó un solo investigador; no se calculó concordancia inter-evaluadores (kappa), lo que reduce la fiabilidad de las decisiones ``dudoso''.
+\end{itemize}
+
+% ---------- 9) Conclusiones ----------
+\section{Conclusiones}
+\relleno{Respuesta sintética a RQ1--RQ3, aportes y recomendaciones (por ejemplo, una app o herramienta para quienes no reciben alertas nacionales).}
+
+% ---------- Anexo A ----------
+\clearpage
+\appendix
+\section{Anexo A. Casos límite del cribado}
+La tabla resume los registros cuyos títulos o motivos exigieron una decisión explícita durante el cribado. Las decisiones se transcriben del archivo de extracción vigente.
+
+\begin{table}[ht]
+  \centering
+  \caption{Casos límite documentados}
+  \label{tab:casos-limite}
+  \scriptsize
+  \begin{tabularx}{\textwidth}{@{}p{0.6cm}>{\raggedright\arraybackslash}X>{\centering\arraybackslash}p{1.35cm}>{\raggedright\arraybackslash}X@{}}
+    \toprule
+    ID & Referencia corta & Decisión & Motivo registrado \\
+    \midrule
+    1 & Mechanical strength characterization and seismic performance of rammed earthen walls & Excluir & Ingeniería estructural sin enfoque de gestión del riesgo. \\
+    11 & Crack-Based Estimation of Seismic Damage Level in Confined Masonry Walls & Excluir & Daño sísmico en albañilería confinada sin enfoque de gestión del riesgo. \\
+    14 & Wavelet Transform Method for the Evaluation of the Seismic Response of One Isolated Building & Excluir & Respuesta sísmica de edificio aislado sin enfoque de gestión del riesgo. \\
+    17 & Comparative Study of the Seismic Response of a Hotel Building With and Without Viscous Fluid Dampers & Excluir & Respuesta sísmica de hotel sin enfoque de gestión del riesgo. \\
+    33 & A systematic review of compound flooding: Drivers, models, and future directions & Excluir & Fuera del rango temporal: año 2027. \\
+    91 & Numerical modeling of a bolted beam-column connection subjected to cyclic loading & Excluir & Conexión viga-columna sin enfoque de gestión del riesgo. \\
+    93 & Evaluación de barriles de lluvia y techos verdes para mitigar inundaciones & Dudoso & Solución de drenaje; física computacional no explícita en el título ni en el resumen disponible. \\
+    94 & Evaluación de pavimentos permeables como técnica para mitigar picos de escorrentía & Dudoso & Solución de drenaje; física computacional no explícita en el título ni en el resumen disponible. \\
+    105 & COVID-19 y salas de análisis del riesgo en salud pública & Excluir & Salud pública sin relación con desastres naturales. \\
+    108 & Management of economic and financial risk of investments in assets for extraction & Excluir & Riesgo económico/financiero minero sin relación con desastres naturales. \\
+    109 & Simulation of the relationship between exercise and cardiopulmonary function at high altitude & Excluir & Fisiología sin relación con desastres naturales. \\
+    \bottomrule
+  \end{tabularx}
+\end{table}
+
+% ---------- 10) Referencias (mín. 18) ----------
+\newpage
+\begin{center}\textbf{Referencias}\end{center}
+\printbibliography[heading=none]
+
+\end{document}

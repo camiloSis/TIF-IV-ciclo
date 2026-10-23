@@ -1,0 +1,198 @@
+% =====================================================================
+% RSL: Física computacional y gestión del riesgo de desastres
+% Curso: Organización y Métodos (UNSA, 2026-B) -- Mg. William Bornás Rios
+% Compilar:  pdflatex -> biber -> pdflatex -> pdflatex   (o: latexmk -pdf main)
+% Los marcadores \relleno{...} indican texto pendiente.
+% =====================================================================
+\documentclass[12pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx}  % Times, aceptado por APA 7
+\usepackage[spanish]{babel}
+\usepackage[margin=2.54cm]{geometry}
+\usepackage{setspace}
+\usepackage{csquotes}          % antes de biblatex
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{caption}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage[hidelinks]{hyperref}
+
+% ---------- Bibliografía: APA 7 con biblatex-apa ----------
+\usepackage[style=apa,backend=biber,language=spanish]{biblatex}
+\DeclareLanguageMapping{spanish}{spanish-apa}
+\addbibresource{referencias.bib}
+
+% ---------- Formato APA 7 (documento estudiantil) ----------
+\doublespacing                 % interlineado doble
+\setlength{\parindent}{1.27cm} % sangría de 0.5 in
+\setlength{\parskip}{0pt}
+\setlist{nosep}
+\captionsetup{font=small,labelfont=bf,justification=raggedright,singlelinecheck=false}
+
+\setlength{\headheight}{14.5pt}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+
+% Encabezados de nivel 1-3 al estilo APA 7
+\usepackage{titlesec}
+\titleformat{\section}{\normalfont\normalsize\bfseries\centering}{}{0pt}{}
+\titleformat{\subsection}{\normalfont\normalsize\bfseries}{}{0pt}{}
+\titleformat{\subsubsection}{\normalfont\normalsize\bfseries\itshape}{}{0pt}{}
+\titlespacing*{\section}{0pt}{0pt}{0pt}
+\titlespacing*{\subsection}{0pt}{0pt}{0pt}
+\titlespacing*{\subsubsection}{0pt}{0pt}{0pt}
+
+% Marcador de texto pendiente
+\newcommand{\relleno}[1]{\textcolor{red}{[#1]}}
+
+% Título y metadatos (usados en portada.tex)
+\newcommand{\titulo}{Física computacional y gestión del riesgo de desastres en el Perú y Latinoamérica: aplicaciones, brechas de acceso y limitaciones}
+\newcommand{\autor}{\relleno{Nombre y apellidos}}
+\newcommand{\correo}{ccapatinta@unsa.edu.pe}
+
+\begin{document}
+
+% ---------- 1) Título y 2) integrantes con e-mails ----------
+\input{portada}
+
+% ---------- 3) Resumen (mín. 250 palabras) y 4) Palabras clave ----------
+\newpage
+\begin{center}\textbf{Resumen}\end{center}
+\noindent\relleno{Resumen de mínimo 250 palabras: contexto, objetivo, método (bases, query, criterios, número de registros), hallazgos por RQ y conclusión principal. Sin citas.}
+
+\vspace{0.5\baselineskip}
+\noindent\textbf{\textit{Palabras clave:}} \textit{\relleno{física computacional, simulación numérica, gestión del riesgo de desastres, responsabilidad social, Perú, Latinoamérica}}
+
+\vspace{1\baselineskip}
+\begin{center}\textbf{Abstract}\end{center}
+\noindent\relleno{Opcional: versión en inglés del resumen.}
+
+\vspace{0.5\baselineskip}
+\noindent\textbf{\textit{Keywords:}} \textit{\relleno{computational physics, numerical simulation, disaster risk management, social responsibility, Peru, Latin America}}
+
+% ---------- 5) Introducción (aprox. 8 párrafos medianos) ----------
+\newpage
+\begin{center}\textbf{\titulo}\end{center}
+\section{Introducción}
+\relleno{P1. Contexto: desastres naturales y de origen humano en el Perú y Latinoamérica.}
+
+\relleno{P2. Física computacional: qué es y por qué importa para la gestión del riesgo.}
+
+\relleno{P3. Responsabilidad social: impacto de la tecnología y bien común (deber social).}
+
+\relleno{P4. Brechas de acceso, capacitación y comunicación en poblaciones vulnerables.}
+
+\relleno{P5. Conexión con Organización y Métodos: cómo las organizaciones públicas y privadas coordinan procesos, roles y decisiones para gestionar el riesgo.}
+
+\relleno{P6. Justificación y vacío en la literatura.}
+
+\relleno{P7. Objetivo y objeto de estudio.}
+
+\relleno{P8. Preguntas de investigación (RQ1--RQ3) y estructura del artículo.}
+
+% ---------- 6) Background (máx. 2 páginas, imagen obligatoria) ----------
+\section{Marco conceptual (\textit{background})}
+\relleno{Conceptos básicos: física computacional, simulación numérica, modelación hidrodinámica, HPC, aprendizaje automático informado por la física, gestión del riesgo de desastres, responsabilidad social. Máximo 2 páginas.}
+
+\begin{figure}[ht]
+  \centering
+  % \includegraphics[width=0.8\textwidth]{figuras/background.png}
+  \fbox{\parbox{0.8\textwidth}{\centering\relleno{Imagen obligatoria del background}}}
+  \caption{\relleno{Título de la figura}}
+  \label{fig:background}
+  \par\smallskip\noindent\small\textit{Nota.} \relleno{Fuente o adaptación de la figura, con cita.}
+\end{figure}
+
+% ---------- 7) Revisión sistemática ----------
+\section{Revisión sistemática}
+
+\subsection{Preguntas de investigación}
+\begin{itemize}
+  \item \textbf{RQ1 (aplicaciones):} ¿Qué técnicas de física computacional (simulación, modelado, HPC, aprendizaje automático informado por la física) se han aplicado a la prevención de desastres naturales en el Perú y Latinoamérica?
+  \item \textbf{RQ2 (acceso y alcance):} ¿Qué barreras de acceso, capacitación y comunicación enfrentan las poblaciones vulnerables para beneficiarse de estas herramientas?
+  \item \textbf{RQ3 (actores y proyección):} ¿Qué instituciones, organizaciones y programas formativos impulsan estas aplicaciones, y qué perspectivas de desarrollo se reportan?
+\end{itemize}
+
+\subsection{Estrategia de búsqueda}
+\relleno{Bases: Scopus y SciELO. Fecha de búsqueda: 22/10/2026. Rango: 2021--2026. Idiomas: español e inglés. Tipos: artículos y revisiones. Query exacto de cada base.}
+
+\begin{table}[ht]
+  \centering
+  \caption{Cadenas de búsqueda utilizadas}
+  \label{tab:queries}
+  \begin{tabular}{@{}p{2.5cm}p{9cm}r@{}}
+    \toprule
+    Base & Cadena de búsqueda & Resultados \\
+    \midrule
+    Scopus & \relleno{query} & 86 \\
+    SciELO & \relleno{query unificado} & \relleno{n} \\
+    \bottomrule
+  \end{tabular}
+  \par\smallskip\noindent\small\textit{Nota.} \relleno{Aclaraciones sobre filtros aplicados.}
+\end{table}
+
+\subsection{Criterios de inclusión y exclusión}
+\textbf{Inclusión:}
+\begin{itemize}
+  \item Revisados por pares, 2021--2026, en español o inglés.
+  \item Aplican o discuten física computacional en gestión de riesgo de desastres.
+  \item Contexto de Perú o Latinoamérica.
+  \item Aportan evidencia para al menos una RQ.
+\end{itemize}
+\textbf{Exclusión:}
+\begin{itemize}
+  \item Duplicados.
+  \item Sin relación con desastres.
+  \item Sin texto completo accesible.
+  \item Solo teóricos, sin aplicación o caso concreto.
+\end{itemize}
+
+\subsection{Selección de estudios}
+\relleno{Diagrama de flujo tipo PRISMA y explicación: identificados $\rightarrow$ duplicados eliminados $\rightarrow$ cribado por título y resumen $\rightarrow$ texto completo $\rightarrow$ incluidos.}
+
+\begin{table}[ht]
+  \centering
+  \caption{Flujo de selección de estudios}
+  \label{tab:flujo}
+  \begin{tabular}{@{}lrrr@{}}
+    \toprule
+    Etapa & Scopus & SciELO & Total \\
+    \midrule
+    Registros identificados & 86 & \relleno{n} & \relleno{n} \\
+    Tras eliminar duplicados & & & \relleno{n} \\
+    Tras cribado por título y resumen & & & \relleno{n} \\
+    Evaluados a texto completo & & & \relleno{n} \\
+    Incluidos en el análisis final & & & \relleno{n} \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\subsection{Análisis por pregunta de investigación}
+\subsubsection{RQ1: aplicaciones}
+\relleno{Análisis con evidencia (citas \textbackslash parencite).}
+\subsubsection{RQ2: acceso y alcance}
+\relleno{Análisis con evidencia.}
+\subsubsection{RQ3: actores y proyección}
+\relleno{Análisis con evidencia.}
+
+% ---------- 8) Limitaciones y consideraciones ----------
+\section{Limitaciones y consideraciones}
+\relleno{Pocos registros con Perú como caso de estudio en SciELO; exclusión de portugués; solo literatura revisada por pares; rango temporal; sesgo de las palabras clave.}
+
+% ---------- 9) Conclusiones ----------
+\section{Conclusiones}
+\relleno{Respuesta sintética a RQ1--RQ3, aportes y recomendaciones (por ejemplo, una app o herramienta para quienes no reciben alertas nacionales).}
+
+% ---------- 10) Referencias (mín. 18) ----------
+\newpage
+\begin{center}\textbf{Referencias}\end{center}
+\printbibliography[heading=none]
+
+\end{document}
